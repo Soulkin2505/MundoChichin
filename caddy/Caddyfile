@@ -1,0 +1,63 @@
+# =============================================================================
+# Caddy — reverse proxy + HTTPS automático
+# Variables expandidas desde el entorno del contenedor:
+#   {$WP_DOMAIN}    ej: "mundochichin.com,www.mundochichin.com"
+#   {$CADDY_EMAIL}  ej: "admin@mundochichin.com"
+# =============================================================================
+
+{
+    email {$CADDY_EMAIL}
+    # Si quieres staging de Let's Encrypt mientras pruebas DNS, descomenta:
+    # acme_ca https://acme-staging-v02.api.letsencrypt.org/directory
+    servers {
+        protocols h1 h2 h3
+    }
+}
+
+{$WP_DOMAIN} {
+    encode zstd gzip
+
+    # Headers de seguridad
+    header {
+        Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+        X-Content-Type-Options "nosniff"
+        X-Frame-Options "SAMEORIGIN"
+        Referrer-Policy "strict-origin-when-cross-origin"
+        Permissions-Policy "interest-cohort=()"
+        -Server
+        -X-Powered-By
+    }
+
+    # Bloquear ejecución de PHP en /uploads (vector clásico de webshells)
+    @uploads_php {
+        path /wp-content/uploads/*.php
+    }
+    respond @uploads_php 403
+
+    # Bloquear acceso directo a archivos sensibles
+    @denied {
+        path /xmlrpc.php
+        path /wp-config.php
+        path /readme.html
+        path /license.txt
+        path /.git/*
+        path /.env
+    }
+    respond @denied 403
+
+    # Límite tamaño de upload (también está en PHP)
+    request_body {
+        max_size 256MB
+    }
+
+    reverse_proxy wordpress:80 {
+        header_up X-Forwarded-Proto https
+        header_up X-Real-IP {remote_host}
+    }
+
+    log {
+        output stdout
+        format console
+        level INFO
+    }
+}

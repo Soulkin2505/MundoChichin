@@ -1,0 +1,8 @@
+[18-May-2026 01:15:30 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\TokenParser\AbstractTokenParser" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/TokenParser/DoTokenParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/TokenParser/DoTokenParser.php on line 21
+[18-May-2026 01:15:30 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\TokenParser\AbstractTokenParser" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/TokenParser/IfTokenParser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/TokenParser/IfTokenParser.php on line 31

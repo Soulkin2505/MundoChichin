@@ -1,0 +1,8 @@
+[18-May-2026 01:05:10 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Laravel\SerializableClosure\Contracts\Serializable" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Serializers/Signed.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Serializers/Signed.php on line 8
+[18-May-2026 01:05:19 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Laravel\SerializableClosure\Contracts\Serializable" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Serializers/Native.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Serializers/Native.php on line 16

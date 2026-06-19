@@ -1,0 +1,106 @@
+# =============================================================================
+# DESARROLLO LOCAL — http://localhost:8090
+# Usa: docker compose up -d
+# =============================================================================
+
+name: ${COMPOSE_PROJECT_NAME:-mundochichin}
+
+services:
+  db:
+    image: mariadb:10.11
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_db
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MARIADB_DATABASE: ${DB_NAME}
+      MARIADB_USER: ${DB_USER}
+      MARIADB_PASSWORD: ${DB_PASSWORD}
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --max_allowed_packet=256M
+      - --innodb_buffer_pool_size=512M
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./data/db-init:/docker-entrypoint-initdb.d:ro
+    networks: [internal]
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  wordpress:
+    image: wordpress:php8.1-apache
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_wp
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "${WP_LOCAL_PORT:-8090}:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME}
+      WORDPRESS_DB_USER: ${DB_USER}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD}
+      WORDPRESS_TABLE_PREFIX: ${WP_TABLE_PREFIX}
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_HOME',    '${WP_SITE_URL}');
+        define('WP_SITEURL', '${WP_SITE_URL}');
+        define('WP_MEMORY_LIMIT', '512M');
+        define('WP_MAX_MEMORY_LIMIT', '768M');
+        define('AUTOMATIC_UPDATER_DISABLED', true);
+        define('DISABLE_WP_CRON', false);
+        define('WP_DEBUG', false);
+        define('FS_METHOD', 'direct');
+        define('DISALLOW_FILE_EDIT', true);
+        if (file_exists('/etc/wordpress/wp-salts.php')) require_once '/etc/wordpress/wp-salts.php';
+    volumes:
+      - wp_core:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+      - ./config/php/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini:ro
+      - ./config/wp-salts.php:/etc/wordpress/wp-salts.php:ro
+    networks: [internal]
+
+  wpcli:
+    image: wordpress:cli-php8.1
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_wpcli
+    depends_on:
+      wordpress:
+        condition: service_started
+    user: "33:33"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME}
+      WORDPRESS_DB_USER: ${DB_USER}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD}
+      WORDPRESS_TABLE_PREFIX: ${WP_TABLE_PREFIX}
+    volumes:
+      - wp_core:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+      - ./scripts:/scripts:ro
+    networks: [internal]
+    entrypoint: ["tail", "-f", "/dev/null"]
+
+  phpmyadmin:
+    image: phpmyadmin:5
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_pma
+    restart: unless-stopped
+    depends_on: [db]
+    ports:
+      - "${PMA_LOCAL_PORT:-8091}:80"
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: ${DB_ROOT_PASSWORD}
+      UPLOAD_LIMIT: 512M
+    networks: [internal]
+
+volumes:
+  db_data:
+  wp_core:
+
+networks:
+  internal:
+    driver: bridge

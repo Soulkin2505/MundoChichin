@@ -1,0 +1,20 @@
+[18-May-2026 01:15:32 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\Extension\AbstractExtension" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/OptimizerExtension.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/OptimizerExtension.php on line 14
+[18-May-2026 01:15:36 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\Extension\AbstractExtension" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/StringLoaderExtension.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/StringLoaderExtension.php on line 16
+[18-May-2026 01:17:13 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\Extension\AbstractExtension" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/YieldNotReadyExtension.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/YieldNotReadyExtension.php on line 17
+[18-May-2026 01:20:37 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\Extension\AbstractExtension" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/EscaperExtension.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/EscaperExtension.php on line 22
+[18-May-2026 01:21:23 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Twig\Extension\AbstractExtension" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/ProfilerExtension.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/twig/src/Extension/ProfilerExtension.php on line 15

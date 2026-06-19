@@ -1,0 +1,4 @@
+[18-May-2026 01:05:08 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Psr\Container\ContainerExceptionInterface" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/psr/container/src/NotFoundExceptionInterface.php on line 8

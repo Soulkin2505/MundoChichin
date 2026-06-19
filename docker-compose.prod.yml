@@ -1,0 +1,121 @@
+# =============================================================================
+# PRODUCCIÓN — VPS con dominio + HTTPS automático (Caddy + Let's Encrypt)
+# Usa: docker compose -f docker-compose.prod.yml up -d
+#
+# Requisitos:
+#   - DNS apuntando al VPS (registros A) para WP_DOMAIN
+#   - Puertos 80 y 443 abiertos en el firewall
+#   - .env con valores reales (passwords fuertes, SITE_URL=https://dominio.com)
+# =============================================================================
+
+name: ${COMPOSE_PROJECT_NAME:-mundochichin}
+
+services:
+  db:
+    image: mariadb:10.11
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_db
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MARIADB_DATABASE: ${DB_NAME}
+      MARIADB_USER: ${DB_USER}
+      MARIADB_PASSWORD: ${DB_PASSWORD}
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --max_allowed_packet=256M
+      - --innodb_buffer_pool_size=1G
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./data/db-init:/docker-entrypoint-initdb.d:ro
+      - ./data/backups:/backups
+    networks: [internal]
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  wordpress:
+    image: wordpress:php8.1-apache
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_wp
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    expose: ["80"]            # NO ports — sólo accesible via Caddy
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME}
+      WORDPRESS_DB_USER: ${DB_USER}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD}
+      WORDPRESS_TABLE_PREFIX: ${WP_TABLE_PREFIX}
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_HOME',    '${WP_SITE_URL}');
+        define('WP_SITEURL', '${WP_SITE_URL}');
+        define('WP_MEMORY_LIMIT', '512M');
+        define('WP_MAX_MEMORY_LIMIT', '768M');
+        define('AUTOMATIC_UPDATER_DISABLED', true);
+        define('DISABLE_WP_CRON', true);
+        define('WP_DEBUG', false);
+        define('FS_METHOD', 'direct');
+        define('DISALLOW_FILE_EDIT', true);
+        define('FORCE_SSL_ADMIN', true);
+        if (isset($$_SERVER['HTTP_X_FORWARDED_PROTO']) && $$_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+            $$_SERVER['HTTPS'] = 'on';
+        }
+        if (file_exists('/etc/wordpress/wp-salts.php')) require_once '/etc/wordpress/wp-salts.php';
+    volumes:
+      - wp_core:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+      - ./config/php/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini:ro
+      - ./config/wp-salts.php:/etc/wordpress/wp-salts.php:ro
+    networks: [internal]
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_caddy
+    restart: unless-stopped
+    depends_on: [wordpress]
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"     # HTTP/3
+    environment:
+      WP_DOMAIN: ${WP_DOMAIN}
+      CADDY_EMAIL: ${CADDY_EMAIL}
+    volumes:
+      - ./caddy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [internal]
+
+  wpcli:
+    image: wordpress:cli-php8.1
+    container_name: ${COMPOSE_PROJECT_NAME:-mundochichin}_wpcli
+    profiles: ["tools"]     # NO arranca por defecto; usar: docker compose run --rm wpcli wp ...
+    depends_on:
+      wordpress:
+        condition: service_started
+    user: "33:33"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: ${DB_NAME}
+      WORDPRESS_DB_USER: ${DB_USER}
+      WORDPRESS_DB_PASSWORD: ${DB_PASSWORD}
+      WORDPRESS_TABLE_PREFIX: ${WP_TABLE_PREFIX}
+    volumes:
+      - wp_core:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+      - ./scripts:/scripts:ro
+    networks: [internal]
+
+volumes:
+  db_data:
+  wp_core:
+  caddy_data:
+  caddy_config:
+
+networks:
+  internal:
+    driver: bridge

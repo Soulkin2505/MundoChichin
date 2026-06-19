@@ -1,0 +1,4779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bw-petito 1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bw-petito\n"
+"POT-Creation-Date: 2024-09-19 04:23:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-04-13 21:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.2; wp-6.7.2"
+
+msgid "404"
+msgstr "404"
+
+msgid "Oops! That page can’t be found."
+msgstr "Oops! Que la página no puede ser encontrado."
+
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que nada se encuentra en esta ubicación. Tal vez uno de los enlaces "
+"de abajo o una búsqueda?"
+
+msgid "Back to home"
+msgstr "De vuelta a casa"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Load more"
+msgstr "Carga más"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Search Result"
+msgstr "Resultado De La Búsqueda"
+
+msgid "Copyright by BZOTech Theme. All Rights Reserved."
+msgstr "Los derechos de autor por BZOTech Tema. Todos Los Derechos Reservados."
+
+msgid "logo"
+msgstr "logotipo"
+
+msgid "Couldn't find what you're looking for!"
+msgstr "No podía encontrar lo que estás buscando!"
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero nada coinciden con sus términos de búsqueda. Por favor, "
+"inténtelo de nuevo con algunas palabras clave diferentes."
+
+msgid "In"
+msgstr "En"
+
+msgid "Image slider"
+msgstr "Imagen de control deslizante"
+
+msgid "Previous post"
+msgstr "Post anterior"
+
+msgid "Next post"
+msgstr "Próximo post"
+
+msgid "Related Posts"
+msgstr "Posts Relacionados"
+
+msgid "Pages:"
+msgstr "Páginas:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "I wanted you to see this site&amp;body=Check out this site"
+msgstr "Quiero que vea este sitio&body=Echa un vistazo a este sitio"
+
+msgid " of "
+msgstr ""
+
+msgid "Showing: "
+msgstr ""
+
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+msgid "View as:"
+msgstr "Ver como:"
+
+msgid "Products"
+msgstr "Productos"
+
+msgctxt "number cate"
+msgid "%1$s item"
+msgid_plural "%1$s items"
+msgstr[0] "%1$s elemento"
+msgstr[1] "%1$s elementos"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Don’t show this pop-up again"
+msgstr "No volver a mostrar este pop-up de nuevo"
+
+msgid "logo mobile"
+msgstr "logotipo móvil"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "flag"
+msgstr "bandera"
+
+msgid "svg"
+msgstr "svg"
+
+msgid "Style 1 (Replace)"
+msgstr "Estilo 1 (Reemplazar)"
+
+msgid "Style 2 (Replace)"
+msgstr "Estilo 2 (Reemplazar)"
+
+msgid "Style 3 (Replace)"
+msgstr "Estilo 3 (Reemplazar)"
+
+msgid "Style 5 (Replace)"
+msgstr "Estilo 5 (Reemplazar)"
+
+msgid "Please enter key search to display results."
+msgstr ""
+"Por favor, introduzca la clave de búsqueda para mostrar los resultados."
+
+msgctxt "count category"
+msgid "%1$s Item"
+msgid_plural "%1$s Items"
+msgstr[0] "%1$s Elemento"
+msgstr[1] "%1$s Elementos"
+
+msgid "was added to wishlist"
+msgstr "fue agregado a la lista de deseos"
+
+msgid "Close"
+msgstr "Cerca de"
+
+msgid "View page"
+msgstr "Ver la página"
+
+msgid "You may be interested in&hellip;"
+msgstr "Usted puede estar interesado en..."
+
+msgid "TOTAL"
+msgstr "TOTAL"
+
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Filter By Price:"
+msgstr "Filtro Por Precio:"
+
+msgid "Latest products"
+msgstr "Los productos más recientes"
+
+msgid "Related products"
+msgstr "Productos relacionados"
+
+msgid "You may also like&hellip;"
+msgstr "También te puede gustar..."
+
+msgid "Pingback:"
+msgstr "Pingback:"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Posted on: "
+msgstr ""
+
+msgid "Reply"
+msgstr "Respuesta"
+
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Comentario"
+msgstr[1] "%1$s Comentarios"
+
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+msgid "&larr; Older Comments"
+msgstr "← Comentarios Más"
+
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos Comentarios →"
+
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+msgid "Name*"
+msgstr "Nombre*"
+
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+msgid "Web Site"
+msgstr "Sitio Web"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "Your comment*"
+msgstr "Su comentario*"
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+msgid "Leave a Reply %s"
+msgstr "Deja una Respuesta %s"
+
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+msgid "Post comment"
+msgstr "Publicar comentario"
+
+msgid "Accordion"
+msgstr "Acordeón"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Style 1 Default"
+msgstr "Estilo 1 Por Defecto"
+
+msgid "Style 2"
+msgstr "Estilo 2"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Enter text"
+msgstr "Introduzca el texto"
+
+msgid "Add Your Content Here"
+msgstr "Agregar Su Contenido Aquí"
+
+msgid "Template content replace"
+msgstr "El contenido de la plantilla reemplazar"
+
+msgid "Alignment"
+msgstr "Alineación"
+
+msgid "Left"
+msgstr "A la izquierda"
+
+msgid "Center"
+msgstr "Centro de"
+
+msgid "Right"
+msgstr "Derecho"
+
+msgid "Justified"
+msgstr "Justificado"
+
+msgid "Add text"
+msgstr "Agregar texto"
+
+msgid "Accordion #1"
+msgstr ""
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+msgid "Accordion #2"
+msgstr ""
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Active Icon"
+msgstr "Icono Activo"
+
+msgid "Accordion setting"
+msgstr "Acordeón de configuración"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Which panel is currently open."
+msgstr "El panel está abierto."
+
+msgid "Animate "
+msgstr ""
+
+msgid "The speed of the animation."
+msgstr "La velocidad de la animación."
+
+msgid "Height Style "
+msgstr ""
+
+msgid "Controls the height of the accordion."
+msgstr "Controla la altura de la acordeón."
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Fill"
+msgstr "Llenar"
+
+msgid "Title style"
+msgstr "Estilo de título"
+
+msgid "Icon style"
+msgstr "Icono de estilo"
+
+msgid "Content style"
+msgstr "El contenido de estilo"
+
+msgid "Normal Style"
+msgstr "Estilo Normal"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Background Color"
+msgstr "Color De Fondo"
+
+msgid "Text Typography"
+msgstr "El Texto De La Tipografía"
+
+msgid "Opacity"
+msgstr "Opacidad"
+
+msgid "Text Shadow"
+msgstr "Sombra De Texto"
+
+msgid "Padding"
+msgstr "Relleno"
+
+msgid "Margin"
+msgstr "Margen"
+
+msgid "Style On Hover"
+msgstr "Estilo En Hover"
+
+msgid "Color On Hover"
+msgstr "El Color En Hover"
+
+msgid "Background Color On Hover"
+msgstr "Color De Fondo En Hover"
+
+msgid "Typography On Hover"
+msgstr "La Tipografía En Hover"
+
+msgid "Opacity On Hover"
+msgstr "Opacidad En Hover"
+
+msgid "Shadow On Hover"
+msgstr "Sombra En Hover"
+
+msgid "Transition Duration On Hover"
+msgstr "Duración De La Transición En Hover"
+
+msgid "Animation On Hover"
+msgstr "Animación En Hover"
+
+msgid "Font Size"
+msgstr "El Tamaño De La Fuente"
+
+msgid "Hover Style"
+msgstr "Hover Estilo"
+
+msgid "Size On Hover "
+msgstr ""
+
+msgid "Account manager"
+msgstr "Gerente de cuenta"
+
+msgid "Log In"
+msgstr "Registro En"
+
+msgid "Become a part of our community!"
+msgstr "A ser parte de nuestra comunidad!"
+
+msgid "Registration complete. Please check your email."
+msgstr "El registro completo. Por favor revise su correo electrónico."
+
+msgid "Username or Email Address"
+msgstr "Nombre de usuario o Dirección de Correo electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Remember Me"
+msgstr "Acuérdate De Mí"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "Lost your password?"
+msgstr "Perdido tu contraseña?"
+
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+msgid "Welcome! Register for an account"
+msgstr "Bienvenida! Registrarse para obtener una cuenta"
+
+msgid "The user name or email address is not correct."
+msgstr "El nombre de usuario o dirección de correo electrónico no es correcta."
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Registration confirmation will be emailed to you."
+msgstr "Confirmación de la inscripción será enviada por correo electrónico."
+
+msgid "Log in"
+msgstr "Registro en"
+
+msgid "Reset password"
+msgstr "Para restablecer la contraseña"
+
+msgid "Recover your password"
+msgstr "Recuperar su contraseña"
+
+msgid "Password reset email has been sent."
+msgstr ""
+"De restablecimiento de contraseña de correo electrónico ha sido enviado."
+
+msgid "The email could not be sent"
+msgstr "El correo electrónico no se pudo enviar"
+
+msgid "Get New Password"
+msgstr "Obtener Nueva Contraseña"
+
+msgid "A password will be e-mailed to you."
+msgstr "Una contraseña será enviada por correo electrónico a usted."
+
+msgid "Style 1 (Default)"
+msgstr "Estilo 1 (Por Defecto)"
+
+msgid "Button"
+msgstr "Botón"
+
+msgid "Icon logged"
+msgstr "Icono de sesión"
+
+msgid "Type your text to add search button"
+msgstr "Escriba el texto para añadir el botón de búsqueda"
+
+msgid "Text position"
+msgstr "La posición del texto"
+
+msgid "After icon"
+msgstr "Después de icono"
+
+msgid "Before icon"
+msgstr "Antes de icono"
+
+msgid "Links"
+msgstr "Enlaces"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Link"
+msgstr "Enlace"
+
+msgid "https://your-link.com"
+msgstr ""
+
+msgid "Show with roles"
+msgstr "Demostrar con papeles"
+
+msgid "Choose roles to show. Default is show with all roles"
+msgstr ""
+"Elija las funciones para mostrar. El valor predeterminado es mostrar con "
+"todas las funciones"
+
+msgid "Add links"
+msgstr "Añadir enlaces"
+
+msgid "Wrap Left"
+msgstr "Envolver La Izquierda"
+
+msgid "0"
+msgstr "0"
+
+msgid "Inherit"
+msgstr "Heredar"
+
+msgid "Wrap Right"
+msgstr "Envolver La Derecha"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Size icon"
+msgstr "Icono de tamaño de"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Icon Color"
+msgstr "Icono De Color"
+
+msgid "Text Color"
+msgstr "El Color Del Texto"
+
+msgid "Typography button text"
+msgstr "La tipografía de texto del botón"
+
+msgid "Background"
+msgstr "De fondo"
+
+msgid "Border Radius"
+msgstr "Radio Frontera"
+
+msgid "Hover"
+msgstr "Hover"
+
+msgid "Space"
+msgstr "Espacio"
+
+msgid "Hello <span>%s</span>"
+msgstr ""
+
+msgid "Banner Home"
+msgstr "Banner Casa"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Choose Image"
+msgstr "Elija La Imagen"
+
+msgid "Type your title here"
+msgstr "Escriba el título aquí"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Type your description here"
+msgstr "Escriba la descripción aquí"
+
+msgid "Button title"
+msgstr "Título del botón de"
+
+msgid "Title Color"
+msgstr "Color Del Título De La"
+
+msgid "Box Shadow"
+msgstr "Cuadro Sombra"
+
+msgid "Alignment All"
+msgstr "La Alineación De Todos Los"
+
+msgid "Description Color"
+msgstr "Descripción Color"
+
+msgid "Button Color"
+msgstr "Botón De Color"
+
+msgid "Style Section"
+msgstr "Sección De Estilo"
+
+msgid "Banner info"
+msgstr "Banner info"
+
+msgid "Banner Style"
+msgstr "Bandera De Estilo"
+
+msgid "style 1 (Default)"
+msgstr "estilo 1 (por Defecto)"
+
+msgid "style 2 (Default)"
+msgstr "estilo 2 (por Defecto)"
+
+msgid "style 3 (Default)"
+msgstr "estilo 3 (valor por Defecto)"
+
+msgid "Link image"
+msgstr "Link de la imagen"
+
+msgid "Text info"
+msgstr "Texto info"
+
+msgid "Transform rotate"
+msgstr "Transformar girar"
+
+msgid "Text Color hover"
+msgstr "El Color del texto hover"
+
+msgid "Typography hover"
+msgstr "La tipografía hover"
+
+msgid "Transform rotate hover"
+msgstr "Transformar girar hover"
+
+msgid "Alignment Info"
+msgstr "Alineación Info"
+
+msgid "Tag wrap text"
+msgstr "Etiqueta de ajuste de texto"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "p"
+msgstr "p"
+
+msgid "Span"
+msgstr "Span"
+
+msgid "Strong"
+msgstr "Fuerte"
+
+msgid "Div"
+msgstr "Div"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "a"
+msgstr "un"
+
+msgid "Link (url)"
+msgstr "El enlace (url)"
+
+msgid "Add class CSS"
+msgstr "Añadir clase CSS"
+
+msgid "Enter name class"
+msgstr "Escriba el nombre de la clase"
+
+msgid "Label button"
+msgstr "Etiqueta de botón"
+
+msgid "Icon position"
+msgstr "Posición de icono"
+
+msgid "After text"
+msgstr "Después del texto"
+
+msgid "Before text"
+msgstr "Antes del texto"
+
+msgid "Style 3"
+msgstr "Estilo 3"
+
+msgid "Custom"
+msgstr "Personalizado"
+
+msgid "Add button"
+msgstr "Botón agregar"
+
+msgid "Choose Image 2 of Effect"
+msgstr "Elija la Imagen 2 de Efecto"
+
+msgid "Overflow"
+msgstr "Desbordamiento"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "Transition Duration"
+msgstr "Duración De La Transición"
+
+msgid "Hover Animation"
+msgstr "Pase De Animación"
+
+msgid "Effect Image"
+msgstr "Efecto De Imagen"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Zoom Overlay"
+msgstr "Zoom De Superposición"
+
+msgid "Zoom out"
+msgstr "Zoom out"
+
+msgid "Zoom out Overlay"
+msgstr "Alejar de Superposición"
+
+msgid "Fade out-in"
+msgstr "Fade out-en"
+
+msgid "Zoom Fade out-in"
+msgstr "Zoom, Fade out-en"
+
+msgid "Fade in-out"
+msgstr "Fade in-out"
+
+msgid "Zoom rotate"
+msgstr "Zoom, rotar"
+
+msgid "Zoom rotate Fade out-in"
+msgstr "Zoom, rotar Fade out-en"
+
+msgid "Overlay"
+msgstr "Superposición de"
+
+msgid "Zoom image line"
+msgstr "Zoom de la imagen de la línea de"
+
+msgid "Gray image"
+msgstr "La imagen gris"
+
+msgid "Gray image line"
+msgstr "La imagen gris de la línea de"
+
+msgid "Pull curtain"
+msgstr "Tirar de la cortina"
+
+msgid "Pull curtain gray image"
+msgstr "Tirar de la cortina gris de la imagen"
+
+msgid "Pull curtain zoom image"
+msgstr "Tirar de la cortina de zoom de la imagen"
+
+msgid "Folding the edge"
+msgstr "Doblar el borde"
+
+msgid "Text Info"
+msgstr "Texto Info"
+
+msgid "Max Width"
+msgstr "Ancho Máximo"
+
+msgid "Style Info"
+msgstr "Estilo Info"
+
+msgid "Inner"
+msgstr "Interior"
+
+msgid "Outter"
+msgstr "Outter"
+
+msgid "Justify Content"
+msgstr "Justificar El Contenido"
+
+msgid "none"
+msgstr "ninguno"
+
+msgid "center"
+msgstr "centro de"
+
+msgid "flex start"
+msgstr "flex inicio"
+
+msgid "flex end"
+msgstr "flex final"
+
+msgid "Position Info"
+msgstr "Posición Info"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Mid"
+msgstr "A mediados de"
+
+msgid "Bottom"
+msgstr "Parte inferior"
+
+msgid "Enter parameter for the top position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Enter parameter for the bottom position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Enter parameter for the left position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Enter parameter for the Right position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Style title"
+msgstr "El estilo de título"
+
+msgid "Breadcrumb"
+msgstr "Miga de pan"
+
+msgid "Blend Mode"
+msgstr "Modo De Mezcla"
+
+msgid "Style 4"
+msgstr "Estilo 4"
+
+msgid "Style Custom"
+msgstr "Estilo Personalizado"
+
+msgid "Button name"
+msgstr "Nombre del botón"
+
+msgid "Enter text of button"
+msgstr "Introduzca el texto del botón"
+
+msgid "Above text"
+msgstr "Texto anterior"
+
+msgid "Below text"
+msgstr "A continuación el texto"
+
+msgid "Typography"
+msgstr "La tipografía"
+
+msgid "Color hover"
+msgstr "Color hover"
+
+msgid "Background hover"
+msgstr "Fondo hover"
+
+msgid "button shadow hover"
+msgstr "botón de sombra hover"
+
+msgid "Border hover"
+msgstr "Borde"
+
+msgid "Border Radius hover"
+msgstr "Radio frontera hover"
+
+msgid "Padding hover"
+msgstr "Relleno hover"
+
+msgid "Animation Hover"
+msgstr "Animación Hover"
+
+msgid "Color icon"
+msgstr "Icono de Color"
+
+msgid "Border type"
+msgstr "Tipo de borde"
+
+msgid "Size icon hover"
+msgstr "Icono de tamaño de hover"
+
+msgid "Color icon hover"
+msgstr "Icono de Color hover"
+
+msgid "Background Hover"
+msgstr "Fondo Hover"
+
+msgid "Padding icon"
+msgstr "Relleno icono"
+
+msgid "Margin icon"
+msgstr "Margen icono"
+
+msgid "Headding and Text Editor"
+msgstr "Headding y Editor de Texto"
+
+msgid "Our Blog"
+msgstr "Nuestro Blog"
+
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda por: %s"
+
+msgid "Text Editor"
+msgstr "Editor De Texto"
+
+msgid "Heading style 1"
+msgstr "Estilo de título 1"
+
+msgid "Heading style 2"
+msgstr "Estilo de título 2"
+
+msgid "Heading style 3"
+msgstr "Estilo de título 3"
+
+msgid "Heading style 4"
+msgstr "Estilo de título 4"
+
+msgid "Heading style 5"
+msgstr "Estilo de título 5"
+
+msgid "Heading style 6"
+msgstr "Estilo de título 6"
+
+msgid "Heading style 7"
+msgstr "Estilo de título 7"
+
+msgid "Enter your title"
+msgstr "Ingrese su título"
+
+msgid "Add Your Heading Text Here"
+msgstr "Añada Su Texto De Título Aquí"
+
+msgid "Auto title by page"
+msgstr "Auto título de la página"
+
+msgid "On"
+msgstr "En"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "HTML Tag"
+msgstr "Etiqueta HTML"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Text Background"
+msgstr "Fondo Del Texto"
+
+msgid "Multiply"
+msgstr "Multiplicar"
+
+msgid "Screen"
+msgstr "Pantalla"
+
+msgid "Darken"
+msgstr "Oscurecer"
+
+msgid "Lighten"
+msgstr "Aclarar"
+
+msgid "Color Dodge"
+msgstr "Color Dodge"
+
+msgid "Saturation"
+msgstr "La saturación"
+
+msgid "Difference"
+msgstr "La diferencia"
+
+msgid "Exclusion"
+msgstr "Exclusión"
+
+msgid "Hue"
+msgstr "Hue"
+
+msgid "Luminosity"
+msgstr "Luminosidad"
+
+msgid "Display"
+msgstr "Pantalla"
+
+msgid "Inline"
+msgstr "En línea"
+
+msgid "Block"
+msgstr "Bloque"
+
+msgid "Contents"
+msgstr "Contenido"
+
+msgid "Inline block\t"
+msgstr ""
+
+msgid "Flex"
+msgstr "Flex"
+
+msgid "Grid"
+msgstr "Cuadrícula"
+
+msgid "Initial"
+msgstr "Inicial"
+
+msgid "List item"
+msgstr "Elemento de la lista"
+
+msgid "Inline table"
+msgstr "De tabla en línea"
+
+msgid "Inline grid"
+msgstr "En línea de cuadrícula"
+
+msgid "Inline flex"
+msgstr "En línea flex"
+
+msgid "Table"
+msgstr "Tabla"
+
+msgid "Table caption"
+msgstr "Texto de la tabla"
+
+msgid "Table column group"
+msgstr "Columna de la tabla del grupo"
+
+msgid "Table header group"
+msgstr "Encabezado de la tabla del grupo"
+
+msgid "Table footer group"
+msgstr "Tabla de pie de página de grupo"
+
+msgid "Table row group"
+msgstr "Grupo de fila de tabla"
+
+msgid "Table cell"
+msgstr "Celda de tabla"
+
+msgid "Table column"
+msgstr "Columna de la tabla"
+
+msgid "Table row"
+msgstr "Fila de la tabla"
+
+msgid "Run in"
+msgstr "Ejecutar en"
+
+msgid "Text Color Hover"
+msgstr "El Color Del Texto Hover"
+
+msgid "Text Background Hover"
+msgstr "Fondo Del Texto Hover"
+
+msgid "Typography Hover"
+msgstr "La Tipografía Hover"
+
+msgid "Info Box"
+msgstr "Cuadro De Información"
+
+msgid "You can change the display style here"
+msgstr "Usted puede cambiar el estilo de visualización de aquí"
+
+msgid "Style 1 (Quote)"
+msgstr "Estilo 1 (Cita)"
+
+msgid "Style 2 (Sevice)"
+msgstr "Estilo 2 (Servicio)"
+
+msgid "Style 3 (Countdown)"
+msgstr "Estilo 3 (Cuenta Regresiva)"
+
+msgid "Style 4 (Testimonial)"
+msgstr "Estilo 4 (Testimonio)"
+
+msgid "Style 5 (Category)"
+msgstr "Estilo 5 (Categoría)"
+
+msgid "Style 6 (Branding)"
+msgstr "Estilo 6 (Branding)"
+
+msgid "Style 7 (Service)"
+msgstr "Estilo 7 (Servicio)"
+
+msgid "Style 8 (Countdown 2)"
+msgstr "Estilo 8 (Cuenta Atrás De 2)"
+
+msgid "Style 9 (Testimonial 2)"
+msgstr "Estilo 9 (Testimonio 2)"
+
+msgid "Style 10 (Category 2)"
+msgstr "Estilo 10 (Categoría 2)"
+
+msgid "Style 11 (List items - home 4)"
+msgstr "Estilo 11 (los elementos de la Lista - casa 4)"
+
+msgid "Style 12 (Sevices -  home 5)"
+msgstr "Estilo 12 (Servicios - casa 5)"
+
+msgid "Style 13 (Category 3 - home 5)"
+msgstr "Estilo 13 (Categoría 3 - casa 5)"
+
+msgid "Style 14 (Sevice with read more - home 6)"
+msgstr "Estilo de 14 (Sevice con leer más - casa 6)"
+
+msgid "Add Your Title Text Here"
+msgstr "Añada Su Texto De Título Aquí"
+
+msgid "Sub Title"
+msgstr "Sub Título"
+
+msgid "Display style"
+msgstr "Estilo de visualización"
+
+msgid "Set style"
+msgstr "Conjunto de estilo"
+
+msgid "Read more text"
+msgstr "Leer más texto"
+
+msgid "Icon after read more button"
+msgstr "Icono de botón de leer más"
+
+msgid "You can choose the icon here"
+msgstr "Usted puede elegir el icono de aquí"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Set date"
+msgstr "Establezca la fecha"
+
+msgid "Title day"
+msgstr "Título día"
+
+msgid "Enter text (Leave it blank will hide it)"
+msgstr "Introduzca el texto (lo Deja en blanco se esconden)"
+
+msgid "Title hour"
+msgstr "Título horas"
+
+msgid "Title min"
+msgstr "Título min"
+
+msgid "Title sec"
+msgstr "Título de la sec"
+
+msgid "You can choose the icon image here"
+msgstr "Usted puede elegir el icono de la imagen aquí"
+
+msgid "Icon image"
+msgstr "La imagen del icono"
+
+msgid "You can choose the icon image here (Replace for icon)"
+msgstr ""
+"Usted puede elegir el icono de la imagen aquí (para Reemplazar el icono)"
+
+msgid "Icon image hover"
+msgstr "Icono de imagen hover"
+
+msgid "Icon gap (px)"
+msgstr "Icono de la brecha (px)"
+
+msgid "Content Width"
+msgstr "El Contenido De Anchura"
+
+msgid "You can add links for the element here"
+msgstr "Puede agregar vínculos para el elemento aquí"
+
+msgid "Icon social"
+msgstr "Icono social"
+
+msgid "Add item social"
+msgstr "Agregar elemento social"
+
+msgid "Show number"
+msgstr "Mostrar número de"
+
+msgid "Get category"
+msgstr "Obtener la categoría"
+
+msgid "You can change the display category here"
+msgstr "Puede cambiar la visualización de la categoría aquí"
+
+msgid "Replace Title"
+msgstr "Sustituir El Título"
+
+msgid "Title text"
+msgstr "Texto del título"
+
+msgid "Replace Counter"
+msgstr "Reemplazar Contador"
+
+msgid "Description text"
+msgstr "El texto de la descripción"
+
+msgid "Replace image"
+msgstr "Reemplazar la imagen"
+
+msgid "Image background"
+msgstr "La imagen de fondo"
+
+msgid "Select library"
+msgstr "Seleccione la biblioteca"
+
+msgid "Image hover"
+msgstr "Imagen hover"
+
+msgid "Image hover position"
+msgstr "Imagen hover posición"
+
+msgid "Set position"
+msgstr "Establecer la posición"
+
+msgid "Replace Link"
+msgstr "Reemplazar Enlace"
+
+msgid "Get Category"
+msgstr "Obtener La Categoría"
+
+msgid "Sub navigation"
+msgstr "Sub navegación"
+
+msgid "Get template content)"
+msgstr "Obtener el contenido de la plantilla)"
+
+msgid "Name / Title"
+msgstr "Nombre / Título"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Select Image"
+msgstr "Seleccione La Imagen"
+
+msgid "Enter Content"
+msgstr "Escriba El Contenido"
+
+msgid "Add Testimonial"
+msgstr "Agregar Testimonio"
+
+msgid "Item"
+msgstr "Elemento"
+
+msgid "Count Categories Style"
+msgstr "Recuento De Las Categorías De Estilo"
+
+msgid "Color category title"
+msgstr "Color del título de la categoría"
+
+msgid "Color Number Countdown"
+msgstr "Color De Número De Cuenta Regresiva"
+
+msgid "Color Text Countdown"
+msgstr "Color De Texto De La Cuenta Regresiva"
+
+msgid "Sub Title | Description Style"
+msgstr ""
+
+msgid "Read more button Style"
+msgstr "Leer más Estilo de botón"
+
+msgid "Read More Icon Style"
+msgstr "Leer Más El Estilo De Los Iconos"
+
+msgid "Description Style"
+msgstr "Descripción De Estilo"
+
+msgid "Image Icon style"
+msgstr "Imagen Icono de estilo"
+
+msgid "Image style"
+msgstr "Estilo de imagen"
+
+msgid "Border radius"
+msgstr "Radio frontera"
+
+msgid "Icon Box Width"
+msgstr "Icono De Cuadro De Ancho"
+
+msgid "Hight"
+msgstr "La altura"
+
+msgid "Filters On Hover"
+msgstr "Los Filtros De Pase"
+
+msgid "Choose Image hover"
+msgstr "Elegir Imagen hover"
+
+msgid "Number star"
+msgstr "El número de estrellas"
+
+msgid "1 star"
+msgstr "1 estrella"
+
+msgid "2 star"
+msgstr "2 estrellas"
+
+msgid "3 star"
+msgstr "3 estrellas"
+
+msgid "4 star"
+msgstr "4 estrellas"
+
+msgid "5 star"
+msgstr "5 estrellas"
+
+msgid "Countdown number"
+msgstr "Número de cuenta regresiva"
+
+msgid "After countdown number"
+msgstr "Después de la cuenta regresiva número"
+
+msgid "Title countdown"
+msgstr "Título de la cuenta regresiva"
+
+msgid "Countdown number 2"
+msgstr "Cuenta regresiva número 2"
+
+msgid "After countdown number 2"
+msgstr "Después de la cuenta regresiva número 2"
+
+msgid "Title countdown 2"
+msgstr "Título de la cuenta atrás 2"
+
+msgid "Add item info"
+msgstr "Agregar elemento info"
+
+msgid "Slider"
+msgstr "Control deslizante"
+
+msgid "Style Item"
+msgstr "Elemento De Estilo"
+
+msgid "Style 1"
+msgstr "Estilo 1"
+
+msgid "Media from"
+msgstr "Los medios de comunicación de"
+
+msgid "Media library"
+msgstr "Biblioteca de medios"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Photos number"
+msgstr "Número de fotos"
+
+msgid "Caption"
+msgstr "Título"
+
+msgid "Text hover"
+msgstr "Texto hover"
+
+msgid "Add images"
+msgstr "Agregar imágenes"
+
+msgid "Grid setting"
+msgstr "Configuración de la cuadrícula"
+
+msgid "Column grid"
+msgstr "La columna de la cuadrícula"
+
+msgid "Select number column"
+msgstr "Seleccione el número de la columna"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "Typography text hover"
+msgstr "La tipografía de texto hover"
+
+msgid "Background overlay"
+msgstr "Fondo de superposición"
+
+msgid "Padding wrap"
+msgstr "Envuelva el relleno"
+
+msgid "Slider Navigation"
+msgstr "Control Deslizante De Navegación"
+
+msgid "Icon next"
+msgstr "Icono siguiente"
+
+msgid "Icon prev"
+msgstr "Icono de prev"
+
+msgid "Slider Pagination"
+msgstr "Control Deslizante De La Paginación"
+
+msgid "Active status"
+msgstr "Estado activo"
+
+msgid "Space top bottom"
+msgstr "El espacio de arriba abajo"
+
+msgid "Space item"
+msgstr "Espacio de elemento"
+
+msgid "Slider Scrollbar"
+msgstr "Control Deslizante De La Barra De Desplazamiento"
+
+msgid "Auto show scrollbar"
+msgstr "El Auto show de barra de desplazamiento"
+
+msgid "Background scrollbar"
+msgstr "Fondo de la barra de desplazamiento"
+
+msgid "Color scrollbar"
+msgstr "El Color de la barra de desplazamiento"
+
+msgid "Border radius scrollbar"
+msgstr "Radio frontera de la barra de desplazamiento"
+
+msgid "Slider Settings"
+msgstr "La Configuración De Slider"
+
+msgid "Items"
+msgstr "Elementos"
+
+msgid "Items custom by display"
+msgstr "Elementos personalizados por pantalla"
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:1,375:2,991:3,1170:4"
+msgstr ""
+"Introduzca el elemento de la anchura de la pantalla(px) es de formato ancho:"
+"valor y valores separados por \",\". Ejemplo de ello es 0:1,375:2,991:3,1170:"
+"4"
+
+msgid "Space(px)"
+msgstr "Espacio(px)"
+
+msgid "For example: 20"
+msgstr "Por ejemplo: 20"
+
+msgid "Row"
+msgstr "Fila"
+
+msgid "Speed(ms)"
+msgstr "Velocidad(ms)"
+
+msgid "For example: 3000 or 5000"
+msgstr "Por ejemplo: 3000 o 5000"
+
+msgid "Auto width"
+msgstr "Anchura automática"
+
+msgid "Loop"
+msgstr "Bucle"
+
+msgid "Navigation"
+msgstr "Navegación"
+
+msgid "Style 2 (Group)"
+msgstr "Estilo 2 (Grupo)"
+
+msgid "Default custom"
+msgstr "Personalizado predeterminado"
+
+msgid "Pagination"
+msgstr "La paginación"
+
+msgid "Scrollbar"
+msgstr "Barra de desplazamiento"
+
+msgid "List Link"
+msgstr "Lista De Enlace"
+
+msgid "Style 1 - Inline"
+msgstr "Estilo 1 - En Línea"
+
+msgid "Style 2 - Block"
+msgstr "Estilo 2 - Bloque"
+
+msgid "Style 3 - Icon"
+msgstr "Estilo 3 - Icono"
+
+msgid "Style 4 - Icon"
+msgstr "Estilo 4 - Icono"
+
+msgid "Style private"
+msgstr "Estilo privado"
+
+msgid "Border Color"
+msgstr "El Color Del Borde"
+
+msgid "Style private hover"
+msgstr "Estilo privada hover"
+
+msgid "Icon Color Hover"
+msgstr "Icono De Color Hover"
+
+msgid "Title Color Hover"
+msgstr "Color Del Título De La Hover"
+
+msgid "Background Color hover"
+msgstr "Color de fondo hover"
+
+msgid "Border Color hover"
+msgstr "El Color del borde de hover"
+
+msgid "Add list"
+msgstr "Añadir lista"
+
+msgid "Link 1"
+msgstr "Link 1"
+
+msgid "Link 2"
+msgstr "Enlace 2"
+
+msgid "Separator"
+msgstr "Separador de"
+
+msgid "Dot"
+msgstr "Dot"
+
+msgid "Vertical bricks"
+msgstr "Verticales de ladrillos"
+
+msgid "separator space"
+msgstr "separador de espacio"
+
+msgid "Icon size"
+msgstr "Tamaño de los iconos"
+
+msgid "Icon space with text"
+msgstr "Icono de espacio con el texto"
+
+msgid "Logo"
+msgstr "Logotipo"
+
+msgid "image"
+msgstr "imagen"
+
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+msgid "Default"
+msgstr "Por defecto"
+
+msgid "style 2"
+msgstr "estilo 2"
+
+msgid "style 3"
+msgstr "estilo 3"
+
+msgid "style 4"
+msgstr "estilo 4"
+
+msgid "style 5"
+msgstr "estilo 5"
+
+msgid "Enter description"
+msgstr "Introduzca una descripción"
+
+msgid "Form"
+msgstr "Formulario"
+
+msgid "Form ID"
+msgstr "Formulario de IDENTIFICACIÓN"
+
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+msgid "Your email address"
+msgstr "Su dirección de correo electrónico"
+
+msgid "Type your placeholder here"
+msgstr "Escriba su marcador de posición aquí"
+
+msgid "Input"
+msgstr "De entrada"
+
+msgid "Input Color"
+msgstr "De Color De Entrada"
+
+msgid "Font size"
+msgstr "El tamaño de la fuente"
+
+msgid "Menu settings"
+msgstr "En los ajustes de menú"
+
+msgid "Select menu"
+msgstr "Seleccione menú"
+
+msgid "Menu style"
+msgstr "Estilo de menú"
+
+msgid "Menu icon"
+msgstr "Icono de menú"
+
+msgid "Menu sticky"
+msgstr "Menú pegajoso"
+
+msgid "Style menu sticky"
+msgstr "Estilo de menú pegajoso"
+
+msgid "Scroll up to show"
+msgstr "Desplácese hacia arriba para mostrar"
+
+msgid "Scroll down to show"
+msgstr "Desplácese hacia abajo para mostrar"
+
+msgid "Menu text align"
+msgstr "Menú de alineación de texto"
+
+msgid "Menu position content"
+msgstr "Menú de posición de contenido"
+
+msgid "Menu side/mobile"
+msgstr "Menú lateral/móvil"
+
+msgid "Icon menu on mobile"
+msgstr "Icono de menú en el móvil"
+
+msgid "Choose Mobile Menu Logo"
+msgstr "Elija Móviles Menú Logotipo"
+
+msgid "Item text background color"
+msgstr "El elemento de texto color de fondo"
+
+msgid "Mobile menu button color"
+msgstr "Móvil el botón de menú de color"
+
+msgid "Mobile menu text color"
+msgstr "Móviles menú color del texto"
+
+msgid "Typography for mobile text"
+msgstr "La tipografía para texto móvil"
+
+msgid "Head Padding"
+msgstr "La Cabeza De Relleno"
+
+msgid "Replace Menu Title"
+msgstr "Reemplazar El Título Del Menú"
+
+msgid "Menu display"
+msgstr "Visualización del menú"
+
+msgid "Mobile menu icon align"
+msgstr "Móvil icono de menú alinear"
+
+msgid "Menu item style"
+msgstr "Elemento de menú estilo"
+
+msgid "Spacing"
+msgstr "Espaciado"
+
+msgid "Item background"
+msgstr "Elemento de fondo"
+
+msgid "Item text color"
+msgstr "El elemento de texto de color"
+
+msgid "Item text color (Active)"
+msgstr "El elemento de texto de color (Activo)"
+
+msgid "Items Border"
+msgstr "Elementos De La Frontera"
+
+msgid "Border"
+msgstr "Frontera"
+
+msgid "Border Last Child"
+msgstr "Frontera Último Hijo"
+
+msgid "Border last Child"
+msgstr "Frontera último Hijo"
+
+msgid "Border First Child"
+msgstr "Frontera Primer Hijo"
+
+msgid "Effect hover style"
+msgstr "Efecto hover estilo"
+
+msgid "Line bottom"
+msgstr "Línea de fondo"
+
+msgid "Line top"
+msgstr "La línea superior"
+
+msgid "Effect hover Color"
+msgstr "Efecto hover Color"
+
+msgid "Submenu item style"
+msgstr "Elemento de submenú estilo"
+
+msgid "Submenu Indicator"
+msgstr "Submenú Indicador"
+
+msgid "Line Arrow"
+msgstr "Línea De Flecha"
+
+msgid "Plus"
+msgstr "Más"
+
+msgid "Fill Arrow"
+msgstr "Relleno De Flecha"
+
+msgid "Indicator color"
+msgstr "Indicador de color"
+
+msgid "Indicator Margin"
+msgstr "Indicador De Margen De"
+
+msgid "Item text color (hover)"
+msgstr "El elemento de texto de color (hover)"
+
+msgid "Item background (hover)"
+msgstr "Elemento de fondo (hover)"
+
+msgid "Item background (Active)"
+msgstr "Elemento de fondo (Activo)"
+
+msgid "Sub Menu Items Border"
+msgstr "Sub Elementos De Menú De La Frontera"
+
+msgid "Submenu panel style"
+msgstr "Submenú estilo de panel"
+
+msgid "Panel Menu Border"
+msgstr "Menú Del Panel De La Frontera"
+
+msgid "Container background"
+msgstr "Contenedor de fondo"
+
+msgid "Container width"
+msgstr "Contenedor de ancho"
+
+msgid "Icon menu Style"
+msgstr "Menú del icono de Estilo"
+
+msgid "Icon menu Toggle"
+msgstr "Menú del icono de la Alternancia"
+
+msgid "Icon Menu Color"
+msgstr "Menú Del Icono De Color"
+
+msgid "Middle"
+msgstr "Medio"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Size height"
+msgstr "El tamaño de la altura"
+
+msgid "Humber Icon Color"
+msgstr "Humber Icono De Color"
+
+msgid "Close Toggle"
+msgstr "Cierre De Palanca"
+
+msgid "Mobile Menu Logo"
+msgstr "Móviles Menú Logotipo"
+
+msgid "Mini Cart"
+msgstr "Mini Carro"
+
+msgid "Style default"
+msgstr "Estilo predeterminado"
+
+msgid "Content Style"
+msgstr "El Contenido De Estilo"
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+msgid "Side"
+msgstr "Lado"
+
+msgid "Show price"
+msgstr "Mostrar precio"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Border Radius Hover"
+msgstr "Radio Frontera Hover"
+
+msgid "Number"
+msgstr "Número de"
+
+msgid "Size number"
+msgstr "El tamaño de la número de"
+
+msgid "Color number"
+msgstr "El número de Color"
+
+msgid "Position left"
+msgstr "La posición de izquierda"
+
+msgid "Position top"
+msgstr "La posición de la parte superior"
+
+msgid "Dropdown/side"
+msgstr "Desplegable/lado"
+
+msgid "Title Typography"
+msgstr "Título De La Tipografía"
+
+msgid "Dropdown position"
+msgstr "Desplegable posición"
+
+msgid "Footer side"
+msgstr "El pie de lado"
+
+msgid "Space text"
+msgstr "El espacio de texto"
+
+msgid "Multi language"
+msgstr "Multi idioma"
+
+msgid "Type"
+msgstr "Tipo de"
+
+msgid "Style by Wpml"
+msgstr "Estilo de Wpml"
+
+msgid "Style by Polylang"
+msgstr "Estilo de Polylang"
+
+msgid "Demo style"
+msgstr "Demostración de estilo"
+
+msgid "Enter logo flag"
+msgstr "Introduzca logotipo de la bandera"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+msgid "Show Flag"
+msgstr "Mostrar La Bandera"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Show Label"
+msgstr "Muéstrele La Etiqueta"
+
+msgid "Label style"
+msgstr "Estilo de etiqueta"
+
+msgctxt "Flex Container Control"
+msgid "Start"
+msgstr "Inicio"
+
+msgctxt "Flex Container Control"
+msgid "Center"
+msgstr "Centro de"
+
+msgctxt "Flex Container Control"
+msgid "End"
+msgstr "Final"
+
+msgctxt "Flex Container Control"
+msgid "Space Between"
+msgstr "El Espacio Entre"
+
+msgctxt "Flex Container Control"
+msgid "Space Around"
+msgstr "Espacio Alrededor De"
+
+msgctxt "Flex Container Control"
+msgid "Space Evenly"
+msgstr "El Espacio De Manera Uniforme"
+
+msgid "Align Items"
+msgstr "Alinear Los Elementos De"
+
+msgctxt "Flex Container Control"
+msgid "Stretch"
+msgstr "Tramo"
+
+msgid "Gap"
+msgstr "La brecha de"
+
+msgid "Label item style"
+msgstr "Etiqueta de elemento de estilo"
+
+msgid "Dropdown style"
+msgstr "Desplegable estilo"
+
+msgid "Posts"
+msgstr "Puestos"
+
+msgid "Icon Space left"
+msgstr "Icono de Espacio a la izquierda"
+
+msgid "Icon Space right"
+msgstr "Icono de Espacio a la derecha"
+
+msgid "Style 2 (Vertical)"
+msgstr "Estilo 2 (Vertical)"
+
+msgid "Style 1 (Square)"
+msgstr "Estilo 1 (Cuadrado)"
+
+msgid "style 2 (Round)"
+msgstr "estilo 2 (Ronda)"
+
+msgid "style 3 (Line)"
+msgstr "estilo 3 (Línea)"
+
+msgid "style 4 (Number)"
+msgstr "estilo 4 (Número)"
+
+msgid "Layout"
+msgstr "Diseño"
+
+msgid "Display type (Layout)"
+msgstr "Tipo de presentación (Layout)"
+
+msgid "Default (Grid - list)"
+msgstr "Por defecto (de la red de la lista)"
+
+msgid "Active type"
+msgstr "Tipo activo"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Grid pagination"
+msgstr "Rejilla de paginación"
+
+msgid "Item style"
+msgstr "El estilo de elemento"
+
+msgid "Style 1 - default"
+msgstr "Estilo 1 - default"
+
+msgid "Style2 - home 1"
+msgstr "Style2 - casa 1"
+
+msgid "Style3 - home 2"
+msgstr "Style3 - casa 2"
+
+msgid "Style4 - home 4"
+msgstr "Style4 - casa 4"
+
+msgid "Style5 - home 6"
+msgstr "Style5 - casa 6"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "Column custom by display"
+msgstr "Columna de costumbre por la pantalla"
+
+msgid "Grid type"
+msgstr "El tipo de la cuadrícula"
+
+msgid "Masonry"
+msgstr "La masonería"
+
+msgid "Grid custom"
+msgstr "Cuadrícula personalizado"
+
+msgid "Enter number column"
+msgstr "Introduzca el número de la columna"
+
+msgid "Row grid"
+msgstr "Fila de la cuadrícula"
+
+msgid "Enter number row"
+msgstr "Introduzca el número de la fila"
+
+msgid "Add column row"
+msgstr "Agregar columna de la fila"
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "Random image size"
+msgstr "Al azar de tamaño de imagen"
+
+msgid "Random image size mansory type (EX: 300x350,300x300,300x250)"
+msgstr ""
+"Imagen aleatoria de tamaño de mansory tipo (EJ: 300x350,300x300,300x250)"
+
+msgid "Meta data"
+msgstr "Los Meta datos"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Total views"
+msgstr "Total de visitas"
+
+msgid "Excerpt"
+msgstr "Extracto"
+
+msgid "Number of text for excerpt"
+msgstr "Número de texto para el extracto"
+
+msgid "Item list style"
+msgstr "La lista de elementos de estilo"
+
+msgid "Style 5"
+msgstr "Estilo 5"
+
+msgid "Thumbnail Width"
+msgstr "Miniatura De Ancho"
+
+msgid "Query"
+msgstr "Consulta"
+
+msgid "Order by"
+msgstr "Orden por"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Last Modified Date"
+msgstr "Fecha De Última Modificación"
+
+msgid "Parent"
+msgstr "Los padres"
+
+msgid "Post views"
+msgstr "Opiniones de correos"
+
+msgid "Order"
+msgstr "El fin de"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid "Show by IDs"
+msgstr "Mostrar por IDs"
+
+msgid "Enter IDs list. The values separated by \",\". Example 11,12"
+msgstr ""
+"Introduzca la lista de Identificadores. Los valores separados por \",\". "
+"Ejemplo 11,12"
+
+msgid "11,12"
+msgstr "11,12"
+
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2. "
+"Default will show all categories"
+msgstr ""
+"Introduzca slug categorías. Los valores separados por \",\". Ejemplo cat-1,"
+"cat-2. Por defecto se muestran todas las categorías"
+
+msgid "cat-1,cat-2"
+msgstr "cat-1,cat-2"
+
+msgid "Top filter"
+msgstr "La parte superior del filtro"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Space meta item"
+msgstr "Espacio de meta elemento"
+
+msgid "Icon color"
+msgstr "Icono de color"
+
+msgid "Space icon"
+msgstr "Icono de espacio"
+
+msgid "Space bottom"
+msgstr "El espacio inferior"
+
+msgid "Pricing Table"
+msgstr "Tabla De Precios"
+
+msgid "Active style"
+msgstr "Estilo activo"
+
+msgid "Text button"
+msgstr "Botón de texto"
+
+msgid "Main Color"
+msgstr "Color Principal"
+
+msgid "Title Width"
+msgstr "Título Ancho"
+
+msgid "Price style"
+msgstr "Precio estilo"
+
+msgid "Description style"
+msgstr "Descripción de estilo"
+
+msgid "Inactive Color"
+msgstr "Inactivo Color"
+
+msgid "Button style"
+msgstr "Estilo de botón"
+
+msgid "Hover Background Color"
+msgstr "Hover Color De Fondo"
+
+msgid "Hover Button Title Color"
+msgstr "Botón Activable Color Del Título De La"
+
+msgid "Title Background Color"
+msgstr "Título Del Color De Fondo"
+
+msgid "Products list"
+msgstr "Lista de productos"
+
+msgid "Item Grid Style"
+msgstr "Elemento De Estilo De Cuadrícula"
+
+msgid "Style 4 - demo 4"
+msgstr "Estilo 4 - demo 4"
+
+msgid "Style 5 - demo 4"
+msgstr "Estilo 5 - demo 4"
+
+msgid "Style 6 - demo 5"
+msgstr "Estilo 6 - demo 5"
+
+msgid "Style 7 - demo 6"
+msgstr "Estilo 7 - demo 6"
+
+msgid "Display tab"
+msgstr "Ficha pantalla"
+
+msgid "Quick View"
+msgstr "Vista Rápida"
+
+msgid "Rate"
+msgstr "La tasa de"
+
+msgid "Countdown"
+msgstr "Cuenta regresiva"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Product type"
+msgstr "Tipo de producto"
+
+msgid "Trending"
+msgstr "Tendencias"
+
+msgid "Featured Products"
+msgstr "Productos Destacados"
+
+msgid "Best Sellers"
+msgstr "Los Mejores Vendedores"
+
+msgid "On Sale"
+msgstr "En Venta"
+
+msgid "Top rate"
+msgstr "La parte superior de la tasa de"
+
+msgid "Most view"
+msgstr "Ver más"
+
+msgid "Menu order"
+msgstr "El orden en el menú"
+
+msgid "List setting"
+msgstr "Configuración de la lista de"
+
+msgid "Item List Style"
+msgstr "La Lista De Elementos De Estilo"
+
+msgid "Excerpt list"
+msgstr "Extracto de la lista de"
+
+msgid "Grid Setting"
+msgstr "Configuración De La Cuadrícula"
+
+msgid "Filter Button"
+msgstr "Botón De Filtro"
+
+msgid "2 Column"
+msgstr "2 Columna"
+
+msgid "3 Column"
+msgstr "La Columna 3"
+
+msgid "4 Column"
+msgstr "4 Columna"
+
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2"
+msgstr ""
+"Introduzca slug categorías. Los valores separados por \",\". Ejemplo cat-1,"
+"cat-2"
+
+msgid "Attributes"
+msgstr "Atributos"
+
+msgid ""
+"Enter slug attributes. The values separated by \",\". Example attribute-1,"
+"attribute-2"
+msgstr ""
+"Introduzca slug atributos. Los valores separados por \",\". Ejemplo de "
+"atributo 1,atributo 2"
+
+msgid "Tab"
+msgstr "Ficha"
+
+msgid "Tab Title"
+msgstr "Título De La Ficha"
+
+msgid "Hover Icon"
+msgstr "Desplace El Icono De"
+
+msgid "Add tab"
+msgstr "Agregar ficha"
+
+msgid "Tab Style"
+msgstr "El Estilo De La Ficha"
+
+msgid "Style 3 (Vertical)-home 6"
+msgstr "Estilo 3 (Vertical)-casa 6"
+
+msgid "Block Title"
+msgstr "Bloque De Título"
+
+msgid "Block Sub Title"
+msgstr "Bloque Sub Título"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Sale"
+msgstr "Venta"
+
+msgid "Item width"
+msgstr "Elemento de ancho"
+
+msgid "Item height"
+msgstr "Elemento de altura"
+
+msgid "Rotate"
+msgstr "Gire"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+msgid "Translate"
+msgstr "Traducir"
+
+msgid "Masory settings"
+msgstr "Masory configuración"
+
+msgid "Group item products"
+msgstr "Elemento del grupo de productos"
+
+msgid "Group the number of products into 1  item of slider"
+msgstr "Grupo el número de productos en 1 elemento de control deslizante"
+
+msgid "Space item (px)"
+msgstr "Espacio de elemento (px)"
+
+msgid "Replace style or Insert template"
+msgstr "Reemplazar estilo o plantilla de Inserción"
+
+msgid "Replace the display style or insert content in the template"
+msgstr ""
+"Reemplazar el estilo de visualización o insertar contenido en la plantilla"
+
+msgid "Add layout masory"
+msgstr "Agregar diseño masory"
+
+msgid "Style 3 (Group)"
+msgstr "Estilo 3 (Grupo)"
+
+msgid "Padding Column"
+msgstr "El Relleno De La Columna"
+
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+msgid "Style 2 (button search outside)"
+msgstr "Estilo 2 (botón de búsqueda fuera)"
+
+msgid "Style 2 (Icon)"
+msgstr "Estilo 2 (Icono)"
+
+msgid "Search button"
+msgstr "Botón de búsqueda"
+
+msgid "Icon - popup"
+msgstr "Icono - popup"
+
+msgid "Text for seach icon on mobile footer"
+msgstr "Texto para buscar el icono en el móvil de pie de página"
+
+msgid "Enter text for icon on mobile footer"
+msgstr "Escriba el texto de icono en el móvil de pie de página"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Enter key to search"
+msgstr "Introduzca la clave de búsqueda"
+
+msgid "Search in"
+msgstr "Búsqueda en"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Show choose category"
+msgstr "Mostrar elegir la categoría"
+
+msgid "Live search"
+msgstr "Live search"
+
+msgid "Background search button"
+msgstr "De fondo del botón de búsqueda"
+
+msgid "Form Text Color"
+msgstr "Forma Color Del Texto"
+
+msgid "Typography Search Form"
+msgstr "La Tipografía Formulario De Búsqueda"
+
+msgid "Form Background"
+msgstr "De Fondo En Forma De"
+
+msgid "Button background"
+msgstr "Fondo de botón"
+
+msgid "Categories dropdown"
+msgstr "Desplegable de categorías"
+
+msgid "All categories"
+msgstr "Todas las categorías"
+
+msgid "Line Height"
+msgstr "La Altura De La Línea"
+
+msgid "Background popup"
+msgstr "Fondo emergente"
+
+msgid "Text for search in mobile footer"
+msgstr "Texto de búsqueda en el móvil de pie de página"
+
+msgid "Style2 (Category)"
+msgstr "Style2 (Categoría)"
+
+msgid "Style3 (Testimonial)"
+msgstr "Style3 (Testimonio)"
+
+msgid "Style4 (Category)"
+msgstr "Style4 (Categoría)"
+
+msgid "Style5 (Testimonial)-Home 6"
+msgstr "Style5 (Testimonio)-Casa 6"
+
+msgid "Background slider"
+msgstr "De fondo deslizante"
+
+msgid "Background parallax"
+msgstr "Fondo de paralaje"
+
+msgid "Width image"
+msgstr "Ancho de la imagen"
+
+msgid "Content text"
+msgstr "Contenido de texto"
+
+msgid "Content box"
+msgstr "Contenido de la caja"
+
+msgid "Box item"
+msgstr "Elemento del cuadro de"
+
+msgid "Style 4 (Group)"
+msgstr "Estilo 4 (Grupo)"
+
+msgid "Template content"
+msgstr "El contenido de la plantilla"
+
+msgid "Action of the image"
+msgstr "La acción de la imagen"
+
+msgid "Popup"
+msgstr "Popup"
+
+msgid "Add slide item"
+msgstr "Agregar diapositiva elemento"
+
+msgid "Style 1 (Basic)"
+msgstr "Estilo 1 (Básico)"
+
+msgid "Title header"
+msgstr "Título de encabezado"
+
+msgid "Sub Title header"
+msgstr "Sub Título de encabezado"
+
+msgid "Sub title header"
+msgstr "Sub título de encabezado"
+
+msgid "Title & Description"
+msgstr "Título Y Descripción"
+
+msgid "Icon title"
+msgstr "Título de icono"
+
+msgid "Tab Content"
+msgstr "Ficha De Contenido"
+
+msgid "Tabs Items"
+msgstr "Fichas De Elementos"
+
+msgid "Tab #1"
+msgstr ""
+
+msgid "Tab #2"
+msgstr ""
+
+msgid "Tab Position"
+msgstr "La Posición De La Lengüeta"
+
+msgid "Horizontal top"
+msgstr "Superior Horizontal"
+
+msgid "Horizontal bottom"
+msgstr "Horizontal de la parte inferior"
+
+msgid "Vertical left"
+msgstr "Vertical a la izquierda"
+
+msgid "Vertical right"
+msgstr "Vertical derecho"
+
+msgid "Title Header Style"
+msgstr "El Título De Cabecera De Estilo"
+
+msgid "Item Title Header Style"
+msgstr "Título Del Elemento De Encabezado De Estilo"
+
+msgid "Header Tab"
+msgstr "Encabezado De La Ficha"
+
+msgid "Layout tab header"
+msgstr "Ficha diseño de encabezado"
+
+msgid "Defaut"
+msgstr "Por omisión"
+
+msgid "Flex wrap"
+msgstr "Flex wrap"
+
+msgid "boxed"
+msgstr "en caja"
+
+msgid "header tab width"
+msgstr "encabezado de la ficha de ancho"
+
+msgid "Horizontal Align Header"
+msgstr "Alineación Horizontal De Encabezado"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "End"
+msgstr "Final"
+
+msgid "Space between"
+msgstr "El espacio entre"
+
+msgid "Vertical Align Header"
+msgstr "Vertical Align Encabezado"
+
+msgid "top"
+msgstr "top"
+
+msgid "Magin"
+msgstr "Magin"
+
+msgid "Content tab"
+msgstr "Contenido de la ficha"
+
+msgid "Horizontal Align Content"
+msgstr "Alineación Horizontal Del Contenido"
+
+msgid "Vertical Align Content"
+msgstr "Vertical Alinear El Contenido"
+
+msgid "Item Title Tab"
+msgstr "Título Del Elemento De La Ficha"
+
+msgid "width"
+msgstr "ancho"
+
+msgid "Horizontal Align Item Tab"
+msgstr "Alineación Horizontal Del Elemento De Ficha"
+
+msgid "Vertical Align Item Tab"
+msgstr "Vertical Align Item Ficha"
+
+msgid "Item space"
+msgstr "Elemento de espacio"
+
+msgid "Left of text"
+msgstr "A la izquierda del texto"
+
+msgid "Right of text"
+msgstr "A la derecha del texto"
+
+msgid "Top of text"
+msgstr "La parte superior de texto"
+
+msgid "Bottom of text"
+msgstr "Parte inferior de texto"
+
+msgid "Icon distance with text"
+msgstr "Icono de distancia con el texto"
+
+msgid "Title Header"
+msgstr "Título De Encabezado"
+
+msgid "Horizontal Align Title"
+msgstr "Alineación Horizontal Del Título"
+
+msgid "Vertical Align Title"
+msgstr "Vertical Align Título"
+
+msgid "Style sub title"
+msgstr "Estilo de sub título"
+
+msgid "Color sub title"
+msgstr "Color sub título"
+
+msgid "Padding sub title"
+msgstr "Relleno sub título"
+
+msgid "Margin sub title"
+msgstr "Margen sub título"
+
+msgid "Install Required Plugins"
+msgstr "Instalar Plug-Ins Necesarios"
+
+msgid "Install Plugins"
+msgstr "La Instalación De Plugins"
+
+msgid "Installing Plugin: %s"
+msgstr "La instalación de Plugin: %s"
+
+msgid "Updating Plugin: %s"
+msgstr "La actualización de Plugin: %s"
+
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API de plugins."
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar la instalación de plugins"
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comience a activar plugin"
+msgstr[1] "Comience a activar los plugins"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Volver a plug-ins Necesarios Instalador"
+
+msgid "Return to the Dashboard"
+msgstr "Volver al Panel de control"
+
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin se ha activado correctamente:"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No toma ninguna acción. Plugin de %1$s ya estaba activo."
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"El Plugin no se activa. Una versión superior de %s es necesario para este "
+"tema. Por favor actualizar el plugin."
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalado y activado correctamente. %1$s"
+
+msgid "Dismiss this notice"
+msgstr "Despedir este aviso"
+
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más requeridos o recomendados plugins para instalar, actualizar o "
+"activar."
+
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Por favor, póngase en contacto con el administrador de este sitio en busca "
+"de ayuda."
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita ser actualizado para ser compatible con su tema."
+
+msgid "Update Required"
+msgstr "Actualización Necesaria"
+
+msgid "Set the parent_slug config variable instead."
+msgstr "Establecer el parent_slug de configuración variable en su lugar."
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El plugin paquete no contiene una carpeta con el slug y el cambio de nombre "
+"no de trabajo."
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Póngase en contacto con el plugin proveedor y pídale a su paquete de plugin "
+"de acuerdo con el WordPress directrices."
+
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El plugin paquete consta de más de un archivo, pero los archivos no están "
+"empaquetadas en una carpeta."
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+msgid "Required"
+msgstr "Se requiere"
+
+msgid "Recommended"
+msgstr "Recomendado"
+
+msgid "WordPress Repository"
+msgstr "Repositorio De WordPress"
+
+msgid "External Source"
+msgstr "Fuente Externa"
+
+msgid "Pre-Packaged"
+msgstr "Pre-Envasados"
+
+msgid "Not Installed"
+msgstr "No Se Instala"
+
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero No Activado"
+
+msgid "Required Update not Available"
+msgstr "Actualización requerida no está Disponible"
+
+msgid "Requires Update"
+msgstr "Requiere Actualización"
+
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Source"
+msgstr "Fuente"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Install %2$s"
+msgstr "Instale %2$s"
+
+msgid "Update %2$s"
+msgstr "Actualización de %2$s"
+
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+msgid "Upgrade message from the plugin author:"
+msgstr "Actualización del mensaje del autor del plugin:"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Update"
+msgstr "Actualización"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No hay plugins que fueron seleccionados para ser instalado. No toma ninguna "
+"acción."
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No hay plugins que fueron seleccionados para ser actualizado. No toma "
+"ninguna acción."
+
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins están disponibles para ser instalados en este momento."
+
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins están disponibles para ser actualizado en este momento."
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No hay plugins que fueron seleccionados para ser activado. No toma ninguna "
+"acción."
+
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins están disponibles para ser activados en este momento."
+
+msgid "Plugin activation failed."
+msgstr "Plugin de activación de error."
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizar el Plugin de %1$s (%2$d/%3$d)"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"La instalación y el proceso de activación es de partida. Este proceso puede "
+"tardar un rato en algunos ejércitos, así que por favor sea paciente."
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar y Activar el Plugin de %1$s (%2$d/%3$d)"
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación se está iniciando. Este proceso puede tardar un "
+"rato en algunos ejércitos, así que por favor sea paciente."
+
+msgid "%1$s installed successfully."
+msgstr "%1$s se ha instalado correctamente."
+
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completados."
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar el Plugin de %1$s (%2$d/%3$d)"
+
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+msgid "Select Icon"
+msgstr "Seleccione El Icono De"
+
+msgid "BZOTECH - Icons"
+msgstr "BZOTECH - Iconos"
+
+msgid "La - Icons"
+msgstr "La - Iconos"
+
+msgid "You do not have permission to do this"
+msgstr "Usted no tiene permiso para hacerlo"
+
+msgid "Importer Class Was Not Installed"
+msgstr "Importador De La Clase No Fue Instalado"
+
+msgid "Plugin: Bzotech core must be installed first. Stop working!"
+msgstr ""
+"Plugin: Bzotech el núcleo debe ser instalado primero. Dejar de trabajar!"
+
+msgid "Importing the demo theme options..."
+msgstr "La importación de la demo de opciones de tema..."
+
+msgid "DONE!"
+msgstr "HECHO!"
+
+msgid "Theme option contain NULL content. Stop working!"
+msgstr "Opción de tema contener NULL contenido. Dejar de trabajar!"
+
+msgid "Importing the demo widgets..."
+msgstr "La importación de la demo widgets..."
+
+msgid "Widget option contain NULL content. Stop working!"
+msgstr "Widget de opción contienen NULO contenido. Dejar de trabajar!"
+
+msgid "File Not Found. Stop working!"
+msgstr "No Se Encuentra El Archivo. Dejar de trabajar!"
+
+msgid "Importing menu settings ..."
+msgstr "La importación de la configuración del menú ..."
+
+msgid "Importing elementor settings ..."
+msgstr "La importación de elementor configuración ..."
+
+msgid "All Done! Have Fun"
+msgstr "Todo Hecho! Diviértete"
+
+msgid "Setting reading options..."
+msgstr "Configuración de las opciones de lectura..."
+
+msgid "Setting WooCommerce options..."
+msgstr "Configuración de WooCommerce opciones..."
+
+msgid "Enable Mega menu"
+msgstr "Habilitar Mega menú"
+
+msgid "Custom width Mega menu. Example \"500px\"."
+msgstr "La anchura personalizada Mega menú. Ejemplo \"500px\"."
+
+msgid "Image Preview"
+msgstr "La Imagen De Vista Previa"
+
+msgid "Content From Mega Item"
+msgstr "El Contenido De Mega Elemento"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "%s (Invalid)"
+msgstr "%s (Inválidas)"
+
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+msgid "sub item"
+msgstr "sub elemento"
+
+msgid "Move up"
+msgstr "Subir"
+
+msgid "Move down"
+msgstr "Mover hacia abajo"
+
+msgid "Edit Menu Item"
+msgstr "Elemento De Menú De Edición"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Navigation Label"
+msgstr "La Navegación De La Etiqueta"
+
+msgid "Title Attribute"
+msgstr "Atributo Title"
+
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+msgid "Link Relationship (XFN)"
+msgstr "Vínculo de Relación (XFN)"
+
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción se mostrará en el menú si el tema actual admite."
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Up one"
+msgstr "Uno"
+
+msgid "Down one"
+msgstr "Abajo una"
+
+msgid "To the top"
+msgstr "Para la parte superior"
+
+msgid "Original: %s"
+msgstr "Original: %s"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere de los siguientes plugins: %1$s."
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema se recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema se recomienda los siguientes plugins: %1$s."
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Lo siento, pero usted no tiene los permisos correctos para instalar el %s "
+"plugin. En contacto con el administrador de este sitio para ayudar en "
+"conseguir el plugin instalado."
+msgstr[1] ""
+"Lo siento, pero usted no tiene los permisos correctos para instalar el %s "
+"plugins. En contacto con el administrador de este sitio para ayudar en "
+"conseguir los plugins instalados."
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin es actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins están inactivos: %1$s."
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Las siguientes recomendaciones plugin es actualmente inactivo: %1$s."
+msgstr[1] "Las siguientes recomendaciones son plugins están inactivos: %1$s."
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo siento, pero usted no tiene los permisos correctos para activar el %s "
+"plugin. En contacto con el administrador de este sitio para ayudar en "
+"conseguir el plugin activado."
+msgstr[1] ""
+"Lo siento, pero usted no tiene los permisos correctos para activar el %s "
+"plugins. En contacto con el administrador de este sitio para ayudar en "
+"conseguir los plugins activados."
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins necesitan ser actualizados a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo siento, pero usted no tiene los permisos correctos para actualizar el %s "
+"plugin. En contacto con el administrador de este sitio para ayudar en "
+"conseguir el plugin actualizado."
+msgstr[1] ""
+"Lo siento, pero usted no tiene los permisos correctos para actualizar el %s "
+"plugins. En contacto con el administrador de este sitio para ayudar en "
+"conseguir los plugins actualizados."
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalado y activado correctamente. %s"
+
+msgid "Primary Navigation"
+msgstr "Navegación Principal"
+
+msgid "Blog Sidebar"
+msgstr "Blog De La Barra Lateral"
+
+msgid "Widgets in this area will be shown on all blog page."
+msgstr "Los Widgets en este área se muestra en toda la página del blog."
+
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce Barra Lateral"
+
+msgid "Widgets in this area will be shown on all woocommerce page."
+msgstr "Los Widgets en este área se muestra en toda woocommerce página."
+
+msgid "BZOTECH Core"
+msgstr "BZOTECH Core"
+
+msgid "Bzotech Core"
+msgstr "Bzotech Core"
+
+msgid "BZOTECH Elementor"
+msgstr "BZOTECH Elementor"
+
+msgid "Revolution Slider"
+msgstr "Revolución Slider"
+
+msgid "elementor"
+msgstr "elementor"
+
+msgid "Redux Framework"
+msgstr "Redux Marco"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "FOX – Currency Switcher Professional for WooCommerce"
+msgstr "FOX – Moneda Mezclador Profesional para WooCommerce"
+
+msgid "Contact Form 7"
+msgstr "Formulario De Contacto 7"
+
+msgid "MailChimp for WordPress Lite"
+msgstr "MailChimp para WordPress Lite"
+
+msgid "Yith Woocommerce Compare"
+msgstr "Yith Woocommerce Comparar"
+
+msgid "Yith Woocommerce Wishlist"
+msgstr "Yith Woocommerce Lista De Deseos"
+
+msgid "SideBar created by add sidebar in theme options."
+msgstr ""
+"Barra lateral creado por agregar en la barra lateral de opciones de tema."
+
+msgid "Append Content Before"
+msgstr "Anexar El Contenido Antes De"
+
+msgid "Choose page"
+msgstr "Elija la página"
+
+msgid "Append Content After"
+msgstr "Anexar El Contenido Después De"
+
+msgid "background-repeat"
+msgstr "background-repeat"
+
+msgid "No Repeat"
+msgstr "No Repetir"
+
+msgid "Repeat All"
+msgstr "Repita Todos"
+
+msgid "Repeat Horizontally"
+msgstr "Repita Horizontalmente"
+
+msgid "Repeat Vertically"
+msgstr "Repita Verticalmente"
+
+msgid "background-attachment"
+msgstr "background-attachment"
+
+msgid "Fixed"
+msgstr "Fijo"
+
+msgid "Scroll"
+msgstr "Desplázate"
+
+msgid "background-position"
+msgstr "background-position"
+
+msgid "Left Top"
+msgstr "La Parte Superior Izquierda"
+
+msgid "Left Center"
+msgstr "A La Izquierda Del Centro"
+
+msgid "Left Bottom"
+msgstr "De La Parte Inferior Izquierda"
+
+msgid "Center Top"
+msgstr "El Centro De La Parte Superior"
+
+msgid "Center Center"
+msgstr "Centro De Centro De"
+
+msgid "Center Bottom"
+msgstr "Centro De La Parte Inferior"
+
+msgid "Right Top"
+msgstr "A La Derecha Arriba"
+
+msgid "Right Center"
+msgstr "A La Derecha Del Centro De"
+
+msgid "Right Bottom"
+msgstr "La Parte Inferior Derecha"
+
+msgid "background-size"
+msgstr "background-size"
+
+msgid "background-image"
+msgstr "imagen de fondo"
+
+msgid "Add Media"
+msgstr "Añadir Los Medios De Comunicación"
+
+msgid "Choose Color"
+msgstr "Elegir El Color De La"
+
+msgid "Font Family"
+msgstr "La Familia De La Fuente"
+
+msgid "font-family"
+msgstr "font-family"
+
+msgid "font-size"
+msgstr "font-size"
+
+msgid "Font Style"
+msgstr "El Estilo De La Fuente"
+
+msgid "font-style"
+msgstr "font-style"
+
+msgid "Italic"
+msgstr "Cursiva"
+
+msgid "Oblique"
+msgstr "Oblicuo"
+
+msgid "Font Variant"
+msgstr "Fuente Variante"
+
+msgid "font-variant"
+msgstr "font-variant"
+
+msgid "Small Caps"
+msgstr "Small Caps"
+
+msgid "Font Weight"
+msgstr "Peso De La Fuente"
+
+msgid "font-weight"
+msgstr "font-weight"
+
+msgid "Bold"
+msgstr "Negrita"
+
+msgid "Bolder"
+msgstr "Más audaz"
+
+msgid "Lighter"
+msgstr "Más ligero"
+
+msgid "100"
+msgstr "100"
+
+msgid "200"
+msgstr "200"
+
+msgid "300"
+msgstr "300"
+
+msgid "400"
+msgstr "400"
+
+msgid "500"
+msgstr "500"
+
+msgid "600"
+msgstr "600"
+
+msgid "700"
+msgstr "700"
+
+msgid "800"
+msgstr "800"
+
+msgid "900"
+msgstr "900"
+
+msgid "Letter Spacing"
+msgstr "El Espaciado Entre Letras"
+
+msgid "line-height"
+msgstr "línea-altura"
+
+msgid "Text Decoration"
+msgstr "La Decoración Del Texto"
+
+msgid "Text Transform"
+msgstr "Transformación De Texto"
+
+msgid "bzotech widgets"
+msgstr "bzotech widgets"
+
+msgid "Footer Page"
+msgstr "Pie De Página:"
+
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+msgid "Add New Footer"
+msgstr "Agregar Nuevo Pie De Página"
+
+msgid "New Footer"
+msgstr "Nuevo Pie De Página"
+
+msgid "Edit Footer"
+msgstr "Editar Pie De Página"
+
+msgid "View Footer"
+msgstr "Ver Pie De Página"
+
+msgid "All Footer"
+msgstr "Todos De Pie De Página"
+
+msgid "Search Footer"
+msgstr "Búsqueda De Pie De Página"
+
+msgid "Parent Footer:"
+msgstr "Padre De Pie De Página:"
+
+msgid "No Footer found."
+msgstr "Sin Pie de página se encuentra."
+
+msgid "No Footer found in Trash."
+msgstr "Sin Pie de página se encuentran en la Basura."
+
+msgid "Header Page"
+msgstr "Encabezado De Página"
+
+msgid "Add New Header"
+msgstr "Añadir Nuevo Encabezado"
+
+msgid "New Header"
+msgstr "Nuevo Encabezado"
+
+msgid "Edit Header"
+msgstr "Editar Encabezado"
+
+msgid "View Header"
+msgstr "Vista De Encabezado"
+
+msgid "All Header"
+msgstr "Todas Encabezado"
+
+msgid "Search Header"
+msgstr "Búsqueda De Encabezado"
+
+msgid "Parent Header:"
+msgstr "Los Padres De Encabezado:"
+
+msgid "No Header found."
+msgstr "No hay Encabezado encontrado."
+
+msgid "No Header found in Trash."
+msgstr "No hay Encabezado encontrado en la Basura."
+
+msgid "Mega Page"
+msgstr "Mega Página"
+
+msgid "Add New Mega Page"
+msgstr "Agregar Nuevo Mega Página"
+
+msgid "New Mega Page"
+msgstr "Nueva Mega Página"
+
+msgid "Edit Mega Page"
+msgstr "Editar La Página De Mega"
+
+msgid "View Mega Page"
+msgstr "Ver La Página De Mega"
+
+msgid "All Mega Page"
+msgstr "Todos Los Mega Página"
+
+msgid "Search Mega Page"
+msgstr "De Búsqueda De La Página De Mega"
+
+msgid "Parent Mega Page:"
+msgstr "El Padre De Mega Página:"
+
+msgid "No Mega Page found."
+msgstr "No Mega Página que se encuentre."
+
+msgid "No Mega Page found in Trash."
+msgstr "No Mega Página encontrado en la Basura."
+
+msgid "Format Settings"
+msgstr "Configuración Del Formato De"
+
+msgid "Style Single Post"
+msgstr "Estilo Único Post"
+
+msgid "--Select--"
+msgstr "--Seleccione--"
+
+msgid "default"
+msgstr "por defecto"
+
+msgid "Add Gallery"
+msgstr "Agregar La Galería"
+
+msgid "Choose images from media."
+msgstr "Elija las imágenes de los medios de comunicación."
+
+msgid "Link Media"
+msgstr "Enlace De Los Medios De Comunicación"
+
+msgid "Enter media url(Youtube, Vimeo, SoundCloud ...)."
+msgstr "Introduzca la url del medio(Youtube, Vimeo, SoundCloud ...)."
+
+msgid "Background breacrum"
+msgstr "Fondo breacrum"
+
+msgid "Enter media)."
+msgstr "Introduzca los medios de comunicación)."
+
+msgid "Page Settings"
+msgstr "La Configuración De La Página"
+
+msgid "General Settings"
+msgstr "Configuración General"
+
+msgid "Choose page header"
+msgstr "Seleccione el encabezado de la página"
+
+msgid ""
+"Include Header content. Go to Header page in admin menu to edit/create "
+"header content. Default is value of Theme Option."
+msgstr ""
+"Incluir contenido de la Cabecera. Ir a página de Encabezado en el "
+"administrador de menú editar/crear contenido de la cabecera. Por defecto es "
+"el valor de la Opción de Tema."
+
+msgid "Choose page footer"
+msgstr "Elegir pie de página"
+
+msgid ""
+"Include Footer content. Go to Footer page in admin menu to edit/create "
+"footer content. Default is value of Theme Option."
+msgstr ""
+"Incluir el Pie de página de contenido. Ir a Pie de página en el menú de "
+"administración para editar/crear el pie de página de contenido. Por defecto "
+"es el valor de la Opción de Tema."
+
+msgid "Sidebar position "
+msgstr ""
+
+msgid "No Sidebar"
+msgstr "Sin Barra Lateral"
+
+msgid "Left sidebar"
+msgstr "A la izquierda de la barra lateral"
+
+msgid "Right sidebar"
+msgstr "De la barra lateral derecha"
+
+msgid ""
+"Choose sidebar position for current page/post(Left,Right or No Sidebar)."
+msgstr ""
+"Elegir la posición de la barra lateral de la página actual/post(Izquierda,"
+"Derecha o Sin barra Lateral)."
+
+msgid "Selects sidebar"
+msgstr "Selecciona la barra lateral"
+
+msgid "Choose a sidebar to display."
+msgstr "Elija una barra lateral para mostrar."
+
+msgid "Sidebar style "
+msgstr ""
+
+msgid "Choose sidebar style for current page/post."
+msgstr "Seleccione de la barra lateral de estilo para la página actual/post."
+
+msgid "Append content before"
+msgstr "Anexar el contenido antes de"
+
+msgid "Choose a mega page content append to before main content of page/post."
+msgstr ""
+"Elegir un mega contenido de la página anexar a antes del contenido principal "
+"de la página/post."
+
+msgid "Append content after"
+msgstr "Anexar el contenido después de"
+
+msgid "Choose a mega page content append to after main content of page/post."
+msgstr ""
+"Elegir un mega contenido de la página después de anexar a contenido "
+"principal de la página/post."
+
+msgid "Show title"
+msgstr "Mostrar título"
+
+msgid "Show/hide title of page."
+msgstr "Mostrar/ocultar el título de la página."
+
+msgid "Show Share Box"
+msgstr "Mostrar Cuadro Compartir"
+
+msgid "--Theme Option--"
+msgstr "--El Tema De La Opción--"
+
+msgid "You can show/hide share box independent on this page. "
+msgstr ""
+
+msgid "Custom color"
+msgstr "Color personalizado"
+
+msgid "Body Background"
+msgstr "Cuerpo De Fondo"
+
+msgid "Change body background of page."
+msgstr "Cambio de fondo del cuerpo de la página."
+
+msgid "Main color"
+msgstr "Color principal"
+
+msgid "Change main color of this page."
+msgstr "Cambiar el color principal de esta página."
+
+msgid "Main color 2"
+msgstr "Color principal 2"
+
+msgid "Change main color 2 of this page."
+msgstr "Cambiar el color principal 2 de esta página."
+
+msgid "Display & Style"
+msgstr "Display & Estilo"
+
+msgid "Page Style"
+msgstr "El Estilo De La Página"
+
+msgid "Page boxed"
+msgstr "Página en caja"
+
+msgid "Choose default style for page."
+msgstr "Elija el estilo por defecto para la página."
+
+msgid "Custom container width(px)"
+msgstr "Contenedor personalizado ancho(px)"
+
+msgid "You can custom width of page container. Default is 1200px."
+msgstr ""
+"Puede personalizar el ancho de la página de contenedor. Por defecto es "
+"1200px."
+
+msgid "Body typography"
+msgstr "El cuerpo de la tipografía"
+
+msgid "Custom font in Title."
+msgstr "Fuente personalizada en el Título."
+
+msgid "Title typography"
+msgstr "Título de la tipografía"
+
+msgid "Add class body"
+msgstr "Agregar cuerpo de la clase"
+
+msgid "CSS classes"
+msgstr "Clases CSS"
+
+msgid "Product Settings"
+msgstr "Configuración Del Producto"
+
+msgid "Product detail style"
+msgstr "Detalles del producto, estilo"
+
+msgid "Select style of product detail"
+msgstr "Seleccione el estilo de detalles del producto"
+
+msgid "Style 1 (Gallery horizontal )"
+msgstr "Estilo 1 (Galería horizontal )"
+
+msgid "Style 2 (Gallery vertical)"
+msgstr "Estilo 2 (Galería vertical)"
+
+msgid "Style 3 (Gallery sticky)"
+msgstr "Estilo 3 (Galería pegajosa)"
+
+msgid "Style 4 (Gallery sticky)"
+msgstr "Estilo 4 (Galería pegajosa)"
+
+msgid "Style 5 (Gallery sticky)"
+msgstr "Estilo 5 (Galería pegajosa)"
+
+msgid "Style 6 (Gallery horizontal 2)"
+msgstr "Estilo 6 (Galería horizontal 2)"
+
+msgid "Style 7 (Gallery vertical 2)"
+msgstr "Estilo 7 (Galería vertical 2)"
+
+msgid "Product Trending"
+msgstr "Producto De Tendencias"
+
+msgid "Set trending for current product."
+msgstr "Establecer la tendencia actual de productos."
+
+msgid "Sticky add to cart"
+msgstr "Pegajosa añadir a la cesta"
+
+msgid "Image zoom"
+msgstr "Imagen zoom"
+
+msgid "Choose a style to display"
+msgstr "Elija un estilo para mostrar"
+
+msgid "Theme option"
+msgstr "Opción de tema"
+
+msgid "Zoom 1"
+msgstr "Zoom 1"
+
+msgid "Zoom 2"
+msgstr "Zoom 2"
+
+msgid "Zoom 3"
+msgstr "Zoom 3"
+
+msgid "Zoom 4"
+msgstr "Zoom 4"
+
+msgid "Link/URL video"
+msgstr "Enlace/URL del vídeo"
+
+msgid ""
+"Get link video(audio) in youtube, vimeo, soundclound, share host,... then "
+"input a link media. Note: Share host: there are 3 supported video formats "
+"mp4, ogg, webm "
+msgstr ""
+
+msgid "Add attribute by color (Show on list item product.)"
+msgstr ""
+"Agregar el atributo de color (Mostrar en el elemento de lista de producto)."
+
+msgid "Choose image from media"
+msgstr "Elija la imagen de los medios de comunicación"
+
+msgid ""
+"Choose image from media (Active in animation rotate thumbnail, zoomout "
+"thumbnail, translate thumbnail)"
+msgstr ""
+"Elija la imagen de los medios de comunicación (Activo en la animación girar "
+"en miniatura, zoomout miniatura, traducir en miniatura)"
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid ""
+"Custom item devices (Show the number product item of related products, "
+"latest products and upsell products) "
+msgstr ""
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:1,375:2,991:3,1170:4. Default in theme option."
+msgstr ""
+"Introduzca el elemento de la anchura de la pantalla(px) es de formato ancho:"
+"valor y valores separados por \",\". Ejemplo de ello es 0:1,375:2,991:3,1170:"
+"4. Por defecto en la opción de tema."
+
+msgid "Append content before product tab"
+msgstr "Anexar el contenido antes de la ficha del producto"
+
+msgid "Choose a mega page content append to before product tab."
+msgstr ""
+"Elegir un mega contenido de la página antes de anexar a la ficha del "
+"producto."
+
+msgid "Append content after product tab"
+msgstr "Anexar el contenido después de la ficha del producto"
+
+msgid "Product tab style"
+msgstr "El estilo de la ficha de producto"
+
+msgid "Tab style horizontal"
+msgstr "El estilo de la ficha horizontal"
+
+msgid "Tab style vertical"
+msgstr "El estilo de la ficha vertical"
+
+msgid "Add Custom Tab"
+msgstr "Agregar En La Ficha Personalizado"
+
+msgid "Priority (Default 40)"
+msgstr "Prioridad (Por Defecto 40)"
+
+msgid "Choose priority value to re-order custom tab position."
+msgstr ""
+"Elija un valor de prioridad a re-orden de tabulación personalizado posición."
+
+msgid "Basic Settings"
+msgstr "Ajustes Básicos"
+
+msgid "General"
+msgstr "General"
+
+msgid ""
+"Include Header content. Go to Header in admin menu to edit/create header "
+"content. Note this value default for all pages of your site, If have any "
+"page/single page display other content pehaps you are set specific header "
+"for it"
+msgstr ""
+"Incluir contenido de la Cabecera. Ir a la Cabecera en el administrador de "
+"menú editar/crear contenido de la cabecera. Nota: este valor predeterminado "
+"para todas las páginas de su sitio web, Si tiene alguna página/sola página "
+"de pantalla de otros contenidos pehaps que son específicos de cabecera para "
+"que"
+
+msgid ""
+"Include Footer content. Go to Footer in admin menu to edit/create footer "
+"content.  Note this value default for all pages of your site, If have any "
+"page/single page display other content pehaps you are set specific footer "
+"for it"
+msgstr ""
+"Incluir el Pie de página de contenido. Ir a Pie de página en el menú de "
+"administración para editar/crear el pie de página de contenido. Nota: este "
+"valor predeterminado para todas las páginas de su sitio web, Si tiene alguna "
+"página/sola página de pantalla de otros contenidos pehaps que son "
+"específicos de pie de página para que"
+
+msgid "Show BreadCrumb"
+msgstr "Mostrar La Ruta De Exploración"
+
+msgid "Look, it's on!"
+msgstr "Mira, es en!"
+
+msgid "BreadCrumb Background"
+msgstr "Ruta De Exploración De Fondo"
+
+msgid "Select images in library"
+msgstr "Seleccione las imágenes en la biblioteca"
+
+msgid "404 Page"
+msgstr "Página de error 404"
+
+msgid "Include page to 404 page"
+msgstr "Incluir la página a página 404"
+
+msgid "404 Style"
+msgstr "404 Estilo"
+
+msgid "Choose a style to display."
+msgstr "Elija un estilo para mostrar."
+
+msgid "FullWidth"
+msgstr "FullWidth"
+
+msgid "Preload"
+msgstr "Precarga"
+
+msgid "Show Preload"
+msgstr "Mostrar La Precarga"
+
+msgid "Change default body background."
+msgstr "Cambio por defecto de fondo del cuerpo."
+
+msgid "Preload Style"
+msgstr "Precarga De Estilo"
+
+msgid "Style 6"
+msgstr "Estilo 6"
+
+msgid "Style 7"
+msgstr "Estilo 7"
+
+msgid "Custom image"
+msgstr "Imagen personalizada"
+
+msgid "Choose default style for your site."
+msgstr "Elija el estilo por defecto para su sitio."
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Show scroll top button"
+msgstr "Show de desplazamiento botón de la parte superior"
+
+msgid "This allow you to show or hide scroll top button"
+msgstr ""
+"Esto te permite mostrar u ocultar de desplazamiento botón de la parte "
+"superior"
+
+msgid "Show wishlist notification"
+msgstr "Mostrar lista de deseos de notificación"
+
+msgid ""
+"This allow you to show or hide wishlist notification when add to wishlist."
+msgstr ""
+"Esto te permite mostrar u ocultar la lista de deseos de notificación al "
+"añadir a la lista de deseos."
+
+msgid "Show tool panel"
+msgstr "Mostrar el panel de herramientas"
+
+msgid "This allow you to show or hide tool panel."
+msgstr "Esto te permite mostrar u ocultar el panel de herramientas."
+
+msgid "Choose tool panel page"
+msgstr "Elija la herramienta de panel de la página"
+
+msgid "Choose a mega page to display."
+msgstr "Elegir un mega de la página a mostrar."
+
+msgid "Append content after footer"
+msgstr "Agregar contenido a pie de página después de"
+
+msgid "Choose a mega page content append to after main content of footer"
+msgstr ""
+"Elegir un mega contenido de la página anexar a después de la principal "
+"contenido de pie de página"
+
+msgid "Image not found"
+msgstr "Imagen que no se encuentra"
+
+msgid "Custom font in Body."
+msgstr "Fuente personalizada en el Cuerpo."
+
+msgid "Change main color of your site."
+msgstr "Cambiar el color principal de su sitio."
+
+msgid "Change main color 2 of your site."
+msgstr "Cambiar el color principal 2 de su sitio."
+
+msgid "Choose default style for pages."
+msgstr "Elija el estilo por defecto de las páginas."
+
+msgid "You can custom width of container on your site. Default is 1200px."
+msgstr ""
+"Puede personalizar el ancho del contenedor en su sitio. Por defecto es "
+"1200px."
+
+msgid "Show share box"
+msgstr "Mostrar cuadro compartir"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "You can show/hide share box on post, page, product pages. "
+msgstr ""
+
+msgid "Add custom share box"
+msgstr "Personalizar el cuadro compartir"
+
+msgid "Social"
+msgstr "Social"
+
+msgid "Total share"
+msgstr "Total de compartir"
+
+msgid "Mail"
+msgstr "Correo"
+
+msgid "Session page"
+msgstr "Página de sesión"
+
+msgid "Select Demo"
+msgstr "Seleccione Demo"
+
+msgid "Select demo version"
+msgstr "Seleccione la versión de demostración"
+
+msgid "Blog & Post"
+msgstr "El Blog Y El Post"
+
+msgid "Append content before post/blog/archive page"
+msgstr "Anexar el contenido antes de post/blog/página de archivo"
+
+msgid ""
+"Choose a mega page content append to before main content of "
+"post/blog/archive page."
+msgstr ""
+"Elegir un mega contenido de la página antes de anexar a contenido principal "
+"del post/blog/página de archivo."
+
+msgid "Append content after post/blog/archive page"
+msgstr "Anexar el contenido después de la post/blog/página de archivo"
+
+msgid ""
+"Choose a mega page content append to after main content of post/blog/archive "
+"page."
+msgstr ""
+"Elegir un mega contenido de la página después de anexar a contenido "
+"principal del post/blog/página de archivo."
+
+msgid "Sidebar Blog"
+msgstr "La Barra Lateral Del Blog"
+
+msgid "Set sidebar position for your blog page. Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral de su página de blog. A la izquierda,"
+" a la Derecha, o Sin barra lateral."
+
+msgid "Sidebar select display in blog"
+msgstr "La barra lateral, seleccione mostrar en el blog"
+
+msgid "Sidebar blog style"
+msgstr "La barra lateral del blog estilo"
+
+msgid "Set sidebar style for your blog page."
+msgstr "Conjunto de estilo de la barra lateral de su página de blog."
+
+msgid "Style2"
+msgstr "Style2"
+
+msgid "Default style"
+msgstr "El estilo por defecto"
+
+msgid "Choose a style to active display"
+msgstr "Elija un estilo de visualización activa"
+
+msgid "Blog pagination"
+msgstr "Blog de la paginación"
+
+msgid "Show number filter"
+msgstr "Mostrar filtro de número de"
+
+msgid "Add list number filter"
+msgstr "Agregar número de la lista de filtro"
+
+msgid "Add custom list number to filter on the blog page."
+msgstr "Personalizar el número de la lista de filtro en la página del blog."
+
+msgid "Show type filter"
+msgstr "Mostrar tipo de filtro"
+
+msgid "Show/hide type filter(list/grid) on blog page."
+msgstr ""
+"Mostrar/ocultar el tipo de filtro(lista/cuadrícula) en la página del blog."
+
+msgid "Show order filter"
+msgstr "Orden de presentación de filtro"
+
+msgid "Show/hide order filter(list/grid) on blog page."
+msgstr ""
+"Mostrar/ocultar el orden del filtro(lista/cuadrícula) en la página del blog."
+
+msgid "yes"
+msgstr "sí"
+
+msgid "Show meta data"
+msgstr "Mostrar los datos de metadatos"
+
+msgid ""
+"Show/hide meta data(author, date, comments, categories, tags) on post detail."
+msgstr ""
+"Mostrar/ocultar datos de metadatos(autor, fecha, comentarios, categorías, "
+"etiquetas) en el post de detalle."
+
+msgid "Meta list"
+msgstr "Meta de la lista"
+
+msgid "List Settings"
+msgstr "Configuración De La Lista"
+
+msgid "Custom list thumbnail size"
+msgstr "Lista personalizada de tamaño miniatura"
+
+msgid "Enter size thumbnail to crop. [width]x[height]. Example is 300x300."
+msgstr ""
+
+msgid "Sub string excerpt"
+msgstr "Sub cadena de extracto"
+
+msgid ""
+"Enter number of character want to get from excerpt content. Default is "
+"full(999). Example is 80. Note: This value only apply for items style can be "
+"show excerpt."
+msgstr ""
+"Introduzca el número de caracteres desea obtener de extracto de contenido. "
+"Por defecto está lleno(999). Ejemplo de ello es el 80. Nota: Este valor sólo "
+"se aplican para los elementos de estilo se pueden mostrar extracto."
+
+msgid "List item style"
+msgstr "Elemento de lista estilo"
+
+msgid "Grid Settings"
+msgstr "La Configuración De La Cuadrícula"
+
+msgid "Grid column"
+msgstr "La columna de la cuadrícula"
+
+msgid "2 column"
+msgstr "2 columna"
+
+msgid "3 column"
+msgstr "La columna 3"
+
+msgid "4 column"
+msgstr "4 columna"
+
+msgid "5 column"
+msgstr "5 columna"
+
+msgid "6 column"
+msgstr "6 columna"
+
+msgid "Custom grid thumbnail size"
+msgstr "Cuadrícula personalizada tamaño de las miniaturas"
+
+msgid "Grid item style"
+msgstr "Elemento de cuadrícula estilo"
+
+msgid "Grid display"
+msgstr "La visualización de la rejilla"
+
+msgid "Post detail Settings"
+msgstr "Post Ajustes de detalle"
+
+msgid "Sidebar Single Post"
+msgstr "La Barra Lateral Solo Post"
+
+msgid ""
+"Set sidebar position for your post detail page. Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral de tu post de la página de detalle. "
+"A la izquierda, a la Derecha, o Sin barra lateral."
+
+msgid "Sidebar select display in single post"
+msgstr "La barra lateral, seleccione mostrar en un solo post"
+
+msgid "Sidebar post style"
+msgstr "La barra lateral de correos de estilo"
+
+msgid "Set sidebar style for your single post."
+msgstr "Conjunto de barra lateral de estilo para su único post."
+
+msgid "Append content before post detail"
+msgstr "Anexar el contenido antes de publicar detalles"
+
+msgid ""
+"Choose a mega page content append to before main content of post detail."
+msgstr ""
+"Elegir un mega contenido de la página antes de anexar a contenido principal "
+"del post detalle."
+
+msgid "Append content after post detail"
+msgstr "Anexar el contenido después de la post detalle"
+
+msgid "Choose a mega page content append to after main content of post detail."
+msgstr ""
+"Elegir un mega contenido de la página después de anexar a contenido "
+"principal del post detalle."
+
+msgid "Show thumbnail/media"
+msgstr "Mostrar miniaturas/medios de comunicación"
+
+msgid "Custom single image size"
+msgstr "Personalizado único, el tamaño de la imagen"
+
+msgid "Show author box"
+msgstr "Mostrar cuadro autor"
+
+msgid "Show navigation post"
+msgstr "Mostrar navegación post"
+
+msgid "Show related post"
+msgstr "Mostrar post relacionados"
+
+msgid "Related title"
+msgstr "Relacionados con el título"
+
+msgid "Enter title of related section."
+msgstr "Introduzca el título de la sección relacionada."
+
+msgid "Related number post"
+msgstr "Relacionados con el número de post"
+
+msgid "Enter number of related post to display."
+msgstr "Introduzca el número de post relacionados a la pantalla."
+
+msgid "Related custom number item responsive"
+msgstr "Relacionados con el número personalizado elemento sensible"
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:2,600:3,1000:4. Default is auto."
+msgstr ""
+"Introduzca el elemento de la anchura de la pantalla(px) es de formato ancho:"
+"valor y valores separados por \",\". Ejemplo de ello es 0:2,600:3,1000:4. El "
+"valor predeterminado es auto."
+
+msgid "Related item style"
+msgstr "Relacionados con el estilo de elemento"
+
+msgid "Layout Settings"
+msgstr "Ajustes De Diseño"
+
+msgid "Sidebar Page"
+msgstr "La Barra Lateral De La Página"
+
+msgid "Set sidebar position for your default page. Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral de su página predeterminada. A la "
+"izquierda, a la Derecha, o Sin barra lateral."
+
+msgid "Sidebar select display in page"
+msgstr "Seleccione mostrar barra lateral en la página"
+
+msgid "Sidebar page style"
+msgstr "La barra lateral de estilo de página"
+
+msgid "Set sidebar style for your page."
+msgstr "Conjunto de estilo de la barra lateral de su página."
+
+msgid "Sidebar Position on Page Archives:"
+msgstr "Posición de la barra lateral en la Página de los Archivos:"
+
+msgid ""
+"Set sidebar position for your archives page(category/tag/author page...). "
+"Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral de su página de los archivos(de la "
+"categoría/tag/autor página...). A la izquierda, a la Derecha, o Sin barra "
+"lateral."
+
+msgid "Sidebar select display in page Archives"
+msgstr "Seleccione mostrar barra lateral en la página de Archivos"
+
+msgid "Sidebar archive style"
+msgstr "La barra lateral de archivo de estilo"
+
+msgid "Set sidebar style for your archive."
+msgstr "Conjunto de barra lateral de estilo para su archivo."
+
+msgid "Sidebar Position on search page:"
+msgstr "Posición de la barra lateral en la página de búsqueda:"
+
+msgid "Set sidebar position for your search page. Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral de su página de búsqueda. A la "
+"izquierda, a la Derecha, o Sin barra lateral."
+
+msgid "Sidebar search style"
+msgstr "La barra lateral de búsqueda de estilo"
+
+msgid "Set sidebar style for your search."
+msgstr "Conjunto de barra lateral de estilo para su búsqueda."
+
+msgid "Add SideBar"
+msgstr "Añadir La Barra Lateral"
+
+msgid "Choose heading title widget"
+msgstr "Elegir el título del widget"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "Shop"
+msgstr "Tienda"
+
+msgid "Sidebar Position WooCommerce page"
+msgstr "Posición de la barra lateral de WooCommerce página"
+
+msgid ""
+"Set sidebar position for your WooCommerce page(Shop, Checkout, Cart, My "
+"Account, Product category/tag/taxonomy page...). Left, Right, or No sidebar."
+msgstr ""
+"Establecer posición de la barra lateral para su WooCommerce(página de la "
+"Tienda, la compra, Carrito, Mi Cuenta, Producto de la "
+"categoría/tag/taxonomía de la página...). A la izquierda, a la Derecha, o "
+"Sin barra lateral."
+
+msgid "Sidebar select WooCommerce page"
+msgstr "La barra lateral, seleccione WooCommerce página"
+
+msgid "Choose one style of sidebar for WooCommerce page"
+msgstr "Elija un estilo de barra lateral para WooCommerce página"
+
+msgid "Sidebar woo style"
+msgstr "Barra lateral woo estilo"
+
+msgid "Set sidebar style for your woo."
+msgstr "Conjunto de barra lateral de estilo para la woo."
+
+msgid "Gap Products"
+msgstr "La Brecha De Productos"
+
+msgid "Choose space. The space between the items on the shop page."
+msgstr ""
+"Elegir el espacio. El espacio entre los elementos de la tienda de la página."
+
+msgid "5px"
+msgstr "5px"
+
+msgid "10px"
+msgstr "10px"
+
+msgid "15px"
+msgstr "15px"
+
+msgid "20px"
+msgstr "20px"
+
+msgid "30px"
+msgstr "30px"
+
+msgid "40px"
+msgstr "40px"
+
+msgid "50px"
+msgstr "50px"
+
+msgid "Product Number"
+msgstr "Número De Producto"
+
+msgid "Enter number product to display per page. Default is 12."
+msgstr ""
+"Introduzca el número de productos a mostrar por página. Valor predeterminado "
+"es 12."
+
+msgid "Product new in(days)"
+msgstr "Producto nuevo en(días)"
+
+msgid "Enter number to set time for product is new. Unit day. Default is 0 .."
+msgstr ""
+"Introduzca el número para establecer la hora para el producto es nuevo. "
+"Unidad de día. El valor predeterminado es 0 .."
+
+msgid "Shop pagination"
+msgstr "Tienda de paginación"
+
+msgid "Shop ajax"
+msgstr "Tienda de ajax"
+
+msgid "Enable ajax process for your shop page."
+msgstr "Habilitar ajax proceso para su tienda de la página."
+
+msgid "Thumbnail animation"
+msgstr "Miniatura de animación"
+
+msgid "Choose a animation."
+msgstr "Elegir una animación."
+
+msgid "Show/hide number filter on shop page."
+msgstr "Mostrar/ocultar el número de filtro en la tienda de la página."
+
+msgid "Add custom list number to filter on the shop page."
+msgstr ""
+"Personalizar el número de la lista de filtro en la tienda de la página."
+
+msgid "Show/hide type filter(list/grid) on shop page."
+msgstr ""
+"Mostrar/ocultar el tipo de filtro(lista/cuadrícula) en la tienda de la "
+"página."
+
+msgid "Show/hide order filter(list/grid) on shop page."
+msgstr ""
+"Mostrar/ocultar el orden del filtro(lista/cuadrícula) en la tienda de la "
+"página."
+
+msgid "Show color attribute"
+msgstr "Mostrar el atributo de color"
+
+msgid "Show/hide color attribute on list item product."
+msgstr ""
+"Mostrar/ocultar el atributo de color en el elemento de la lista de productos."
+
+msgid "Show button quick view"
+msgstr "Mostrar botón de vista rápida"
+
+msgid "Quick view style"
+msgstr "Vista rápida de estilo"
+
+msgid "Style 1 (default)"
+msgstr "Estilo 1 (por defecto)"
+
+msgid "Choose a style to active display (Keep empty to select default style)"
+msgstr ""
+"Elija un estilo de visualización activa (Mantener vacío para seleccionar el "
+"estilo por defecto)"
+
+msgid "7 column"
+msgstr "7 columna"
+
+msgid "8 column"
+msgstr "8 columna"
+
+msgid "9 column"
+msgstr "9 columna"
+
+msgid "10 column"
+msgstr "10 columna"
+
+msgid "Choose a style to active display (Keep empty to select Default style)"
+msgstr ""
+"Elija un estilo de visualización activa (Mantener vacío para seleccionar el "
+"estilo por Defecto)"
+
+msgid "Cart display"
+msgstr "Carrito de la pantalla"
+
+msgid "Checkout display"
+msgstr "Checkout de la pantalla"
+
+msgid "Header WooCommerce Page"
+msgstr "Encabezado De Página WooCommerce"
+
+msgid "Footer WooCommerce Page"
+msgstr "Pie De Página WooCommerce"
+
+msgid "Append content before WooCommerce page"
+msgstr "Anexar el contenido antes de WooCommerce página"
+
+msgid "Append content after WooCommerce page"
+msgstr "Anexar el contenido después de WooCommerce página"
+
+msgid "Sidebar Position WooCommerce Single"
+msgstr "Posición De La Barra Lateral De WooCommerce Sola"
+
+msgid "Left, or Right, or Center"
+msgstr "A la izquierda, o la Derecha, o Centro de"
+
+msgid "Sidebar select WooCommerce Single"
+msgstr "La barra lateral, seleccione WooCommerce Sola"
+
+msgid "Sidebar product style"
+msgstr "La barra lateral de estilo del producto"
+
+msgid "Set sidebar style for your product."
+msgstr "Conjunto de barra lateral de estilo para su producto."
+
+msgid "Show Excerpt"
+msgstr "Mostrar Extracto"
+
+msgid "Extra display"
+msgstr "Pantalla adicional"
+
+msgid "Show latest products"
+msgstr "Mostrar los productos más recientes"
+
+msgid "Show upsell products"
+msgstr "Show de venta de productos"
+
+msgid "Show related products"
+msgstr "Mostrar productos relacionados"
+
+msgid "Show Single Number"
+msgstr "Mostrar Solo Número"
+
+msgid "Show Single Size"
+msgstr "Mostrar Tamaño Único"
+
+msgid ""
+"Custom size for related,upsell products. Enter size thumbnail to crop. "
+"[width]x[height]. Example is 300x300."
+msgstr ""
+
+msgid "Custom item devices"
+msgstr "Elemento personalizado dispositivos"
+
+msgid "Single item style"
+msgstr "Único elemento de estilo"
+
+msgid "Append content before product page"
+msgstr "Anexar el contenido antes de la página de producto"
+
+msgid "Append content after product page"
+msgstr "Anexar el contenido después de la página del producto"
+
+msgid "Theme Options"
+msgstr "Opciones De Tema"
+
+msgid "Add to Compare"
+msgstr "Añadir para Comparar"
+
+msgid "Add to wishlist"
+msgstr "Añadir a lista de deseos"
+
+msgid "new"
+msgstr "nuevo"
+
+msgid "reviews"
+msgstr "comentarios"
+
+msgid "review"
+msgstr "revisión"
+
+msgid "Default sorting"
+msgstr "Ordenación por defecto"
+
+msgid "Sort by popularity"
+msgstr "Ordenar por popularidad"
+
+msgid "Sort by average rating"
+msgstr "Ordenar por valoración media"
+
+msgid "Sort by newness"
+msgstr "Ordenar por la novedad"
+
+msgid "Sort by price: low to high"
+msgstr "Ordenar por precio: bajo a alto"
+
+msgid "Sort by price: high to low"
+msgstr "Ordenar por precio: alto a bajo"
+
+msgid "Relevance"
+msgstr "Relevancia"
+
+msgid "No result found with current filter value."
+msgstr "Ningún resultado encontrado con el actual valor del filtro."
+
+msgid "No any results with this keyword."
+msgstr "No hay resultados con esta palabra clave."
+
+msgid "Out of stock"
+msgstr "Fuera de stock"
+
+msgid "Available on backorder"
+msgstr "Disponible en pedido pendiente"
+
+msgid "In stock"
+msgstr "En stock"
+
+msgid "Only %s left in stock"
+msgstr "Sólo %s a la izquierda en stock"
+
+msgid "%s items in stock"
+msgstr "%s artículos en stock"
+
+msgid "(can be backordered)"
+msgstr "(puede estar en lista de espera)"
+
+msgid "Select terms"
+msgstr "Seleccione las palabras"
+
+msgid "Select all"
+msgstr "Seleccione todos los"
+
+msgid "Select none"
+msgstr "Seleccione ninguno"
+
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+msgid "-- Choose One --"
+msgstr "- Elegir Uno --"
+
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "en"
+
+msgid "Missing a variable of this funtion"
+msgstr "Falta una variable de esta función"
+
+msgid "preload-image"
+msgstr "precarga de imagen"
+
+msgid "Tags : "
+msgstr ""
+
+msgid "No Tag"
+msgstr "Sin Etiqueta"
+
+msgid "Views"
+msgstr "Vistas"
+
+msgid "By "
+msgstr ""
+
+msgid "Post grid 2"
+msgstr "Post grid 2"
+
+msgid "Post grid 3"
+msgstr "Post cuadrícula de 3"
+
+msgid "Post grid 4"
+msgstr "Post cuadrícula de 4"
+
+msgid "Overlay Zoom"
+msgstr "Superposición De Zoom"
+
+msgid "Product list 2"
+msgstr "Lista de producto 2"
+
+msgid "Product grid 2"
+msgstr "Producto de grid 2"
+
+msgid "Product grid 3"
+msgstr "Producto de cuadrícula 3"
+
+msgid "Product grid 4"
+msgstr "Producto de cuadrícula 4"
+
+msgid "Product grid 6"
+msgstr "Producto de la cuadrícula de 6"
+
+msgid "Product grid 7"
+msgstr "Producto de cuadrícula 7"
+
+msgid "Post Parent"
+msgstr "Post De Los Padres"
+
+msgid "Home"
+msgstr "Casa"
+
+msgid "Search Results for: "
+msgstr ""
+
+msgid "Compare"
+msgstr "Comparar"
+
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+msgid "BZOTECH Attribute Filter"
+msgstr "BZOTECH Atributo de Filtro"
+
+msgid "Filter product shop page"
+msgstr "Filtro de producto de la tienda de la página"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Attribute:"
+msgstr "Atributo:"
+
+msgid "No any attribute."
+msgstr "No hay ningún atributo."
+
+msgid "BZOTECH Categories Filter"
+msgstr "BZOTECH Categorías de Filtro"
+
+msgid "Categories:"
+msgstr "Categorías:"
+
+msgid "No any category."
+msgstr "No hay ninguna categoría."
+
+msgid "BZOTECH Get Mega Page"
+msgstr "BZOTECH Obtener la Página de Mega"
+
+msgid "Get content in mega page"
+msgstr "Obtener el contenido en la página de mega"
+
+msgid "Select mega page:"
+msgstr "Seleccione la página de mega:"
+
+msgid "Wrap class:"
+msgstr "La envoltura de la clase:"
+
+msgid "BZOTECH Group begin"
+msgstr "BZOTECH Grupo de comenzar"
+
+msgid "Begin a Group"
+msgstr "Iniciar un Grupo"
+
+msgid "BZOTECH Group end"
+msgstr "BZOTECH Grupo final"
+
+msgid "End a Group"
+msgstr "Final de un Grupo de"
+
+msgid "BZOTECH Posts List"
+msgstr "BZOTECH Puestos de la Lista"
+
+msgid "Posts list"
+msgstr "Puestos de la lista"
+
+msgid "List Posts"
+msgstr "Publicaciones De La Lista"
+
+msgid "Post Number"
+msgstr "Post Número"
+
+msgid "Order By"
+msgstr "Orden Por"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "--- Select ---"
+msgstr "--- Seleccionar ---"
+
+msgid "Number product in item silder (Default: 4)"
+msgstr "Número de producto en el punto de silder (por Defecto: 4)"
+
+msgid ""
+"Custom image size (Example: enter size in pixels : 200x100 (Width x Height))"
+msgstr ""
+"Personalizado tamaño de la imagen (Ejemplo: escriba el tamaño en píxeles : "
+"200x100 (Altura de la Anchura x))"
+
+msgid "Display a list of your products on your site."
+msgstr "Mostrar una lista de sus productos en su sitio."
+
+msgid "BZOTECH Products slider"
+msgstr "BZOTECH control deslizante de Productos"
+
+msgid "Number post (Default: 8)"
+msgstr "Número de post (por Defecto: 8)"
+
+msgid "Filter by category (Default get all)"
+msgstr "Filtrar por categoría (por Defecto obtener todos)"
+
+msgid "Post ID"
+msgstr "ID del Post"
+
+msgid "Post Title"
+msgstr "Título Del Post"
+
+msgid "Post Name"
+msgstr "Nombre Del Puesto"
+
+msgid "Post Date"
+msgstr "Fecha De Publicación"
+
+msgid "Random"
+msgstr "Al azar"
+
+msgid "Comment Count"
+msgstr "El Número De Comentarios"
+
+msgid "View Post"
+msgstr "Ver Post"
+
+msgid "Rating Product"
+msgstr "Calificación Del Producto"
+
+msgid "Sort by price"
+msgstr "Ordenar por precio"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid ""
+"Custom image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" "
+"or other sizes defined by theme. Alternatively enter size in pixels : "
+"200x100 (Width x Height))"
+msgstr ""
+"Personalizado tamaño de la imagen (Ejemplo: \"miniatura\", \"medio\", "
+"\"grande\", \"completo\" o de otros tamaños definidos por el tema. "
+"Alternativamente entrar tamaño en píxeles : 200x100 (Altura de la Anchura x))"
+
+msgid "Search.."
+msgstr "Búsqueda.."
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Remove this item"
+msgstr "Quitar este artículo"
+
+msgid "Coupon:"
+msgstr "Cupón:"
+
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+msgid "Update cart"
+msgstr "Actualizar carrito"
+
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Cant."
+
+msgid "Login"
+msgstr "Inicio de sesión"
+
+msgid "Username or email address*"
+msgstr "Nombre de usuario o dirección de correo electrónico*"
+
+msgid "Password*"
+msgstr "Contraseña*"
+
+msgid "Remember me"
+msgstr "Acuérdate de mí"
+
+msgid "Username*"
+msgstr "Nombre de usuario*"
+
+msgid "Email address*"
+msgstr "Dirección de correo electrónico*"
+
+msgid "A password will be sent to your email address."
+msgstr "Una contraseña le será enviada a su dirección de correo electrónico."
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto está fuera de stock y no está disponible."
+
+msgid "Clear"
+msgstr "Claro"
+
+msgid "SKU:"
+msgstr "SKU:"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etiqueta:"
+msgstr[1] "Etiquetas:"
+
+msgid "bw-petito"
+msgstr "bw-petito"
+
+msgid "https://bw-petito.bzotech.com/intro/"
+msgstr ""
+
+msgid ""
+"Petito is a beautiful pet store WooCommerce WordPress theme that is suitable "
+"for pet food, pet supplies, toys, accessories, housebreaking items, etc."
+msgstr ""
+"Petito es una hermosa tienda de mascotas WooCommerce tema de WordPress que "
+"es adecuado para los alimentos para mascotas, productos para mascotas, "
+"juguetes, accesorios, allanamiento de morada artículos, etc."
+
+msgid "the BZOTECH"
+msgstr "el BZOTECH"
+
+msgid "https://themeforest.net/user/bzotech"
+msgstr ""
+
+msgid "Elementor Theme"
+msgstr "Elementor Tema"

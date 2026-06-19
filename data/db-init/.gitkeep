@@ -1,0 +1,2 @@
+Coloca aquí el dump SQL inicial: 01-dump.sql (o 01-dump.sql.gz).
+Se cargará automáticamente la primera vez que arranque MariaDB.

@@ -1,0 +1,5 @@
+[18-May-2026 01:11:57 America/Bogota] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Render_Base" not found in /home/mundochi/public_html/wp-content/plugins/elementor/modules/link-in-bio/classes/render/core-render.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/modules/link-in-bio/classes/render/core-render.php on line 12
+[18-May-2026 01:11:57 America/Bogota] PHP Fatal error:  Trait "Elementor\Core\Base\Traits\Shared_Widget_Controls_Trait" not found in /home/mundochi/public_html/wp-content/plugins/elementor/modules/link-in-bio/classes/render/render-base.php on line 18

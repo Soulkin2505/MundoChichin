@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Wrapper rápido de WP-CLI: ./scripts/wp plugin list
+set -euo pipefail
+cd "$(dirname "$0")/.."
+source scripts/_lib.sh
+check_env
+
+COMPOSE="docker compose"
+EXEC="exec -T"
+if [[ "${1:-}" == "--prod" ]]; then
+  COMPOSE="docker compose -f docker-compose.prod.yml"
+  EXEC="run --rm"
+  shift
+fi
+
+$COMPOSE $EXEC wpcli wp --path=/var/www/html "$@"

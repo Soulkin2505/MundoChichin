@@ -1,0 +1,4 @@
+[18-May-2026 01:04:56 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Laravel\SerializableClosure\Contracts\Signer" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/laravel/serializable-closure/src/Signers/Hmac.php on line 6

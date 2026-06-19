@@ -1,0 +1,8 @@
+[18-May-2026 01:09:42 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Invoker\ParameterResolver\ParameterResolver" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12
+[18-May-2026 01:09:45 America/Bogota] PHP Fatal error:  Uncaught Error: Interface "ElementorDeps\Invoker\ParameterResolver\ParameterResolver" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13

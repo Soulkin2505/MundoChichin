@@ -1,0 +1,4 @@
+[18-May-2026 01:09:44 America/Bogota] PHP Fatal error:  Uncaught Error: Class "ElementorDeps\Invoker\Exception\InvocationException" not found in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mundochi/public_html/wp-content/plugins/elementor/vendor_prefixed/dependency-injection/php-di/invoker/src/Exception/NotCallableException.php on line 9

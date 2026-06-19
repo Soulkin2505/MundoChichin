@@ -1,0 +1,69 @@
+# =============================================================================
+# Mundo Chichín WordPress — Git ignore
+# Los patterns con "/" al inicio aplican SÓLO a la raíz del repo,
+# para no afectar archivos de plugins/themes con nombres similares.
+# =============================================================================
+
+# Secrets — no van a Git nunca
+/.env
+/.env.local
+/.env.*.local
+/config/wp-salts.php
+*.pem
+*.key
+
+# Datos del cliente — NO van a Git, se sincronizan vía rsync/scp
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/backups/
+wp-content/backup-*/
+wp-content/wflogs/
+wp-content/debug.log
+wp-content/ai1wm-backups/
+wp-content/updraft/
+wp-content/et-cache/
+wp-content/elementor/css/
+wp-content/litespeed/
+
+# Dumps SQL — NO van a Git (se mueven con scp)
+/data/db-init/*.sql
+/data/db-init/*.sql.gz
+/data/db-init/*.gz
+/data/backups/
+
+# Caddy / SSL — se generan en el VPS
+/caddy_data/
+/caddy_config/
+
+# WordPress core — la imagen oficial lo provee, no se trackea (solo en la raíz)
+/wp-admin/
+/wp-includes/
+/wp-config.php
+/wp-config-sample.php
+/wp-login.php
+/wp-cron.php
+/wp-load.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-links-opml.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/wp-activate.php
+/index.php
+/xmlrpc.php
+/license.txt
+/readme.html
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs
+*.log
+/logs/

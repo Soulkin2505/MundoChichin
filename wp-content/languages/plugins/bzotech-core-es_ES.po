@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bzotech Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-23 23:20+0000\n"
+"PO-Revision-Date: 2025-04-23 23:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.2; wp-6.8\n"
+"X-Domain: bzotech-core"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Author of the plugin
+msgid "Bzotech"
+msgstr "Bzotech"
+
+#. Name of the plugin
+msgid "Bzotech Core"
+msgstr "Bzotech Core"
+
+#: bzotech-core.php:139
+msgid "Facebook Profile URL"
+msgstr "Facebook URL de Perfil"
+
+#: bzotech-core.php:142
+msgid "Github Profile URL"
+msgstr "Github URL de Perfil"
+
+#: bzotech-core.php:137
+msgid "Google Profile URL"
+msgstr "Google URL de Perfil"
+
+#: libs/importer/views/import.php:117
+msgid "Import All"
+msgstr "Importar Todos"
+
+#: libs/importer/importer.php:74 libs/importer/importer.php:75
+#: libs/importer/views/import.php:13
+msgid "Import Demo Content"
+msgstr "Importar Contenido De Demostración"
+
+#: libs/importer/views/import.php:119
+msgid "Import Media"
+msgstr "La Importación De Medios De Comunicación"
+
+#: libs/importer/views/import.php:118
+msgid "Import Without Media"
+msgstr "Sin Importar Los Medios"
+
+#: bzotech-core.php:143
+msgid "Instagram Profile URL"
+msgstr "Instagram URL de Perfil"
+
+#: bzotech-core.php:140
+msgid "Linkedin Profile URL"
+msgstr "El Perfil de Linkedin de URL"
+
+#: bzotech-core.php:141
+msgid "Pinterest Profile URL"
+msgstr "Pinterest URL de Perfil"
+
+#. Description of the plugin
+msgid "Required with themes of Bzotech Theme. Contains all helper functions."
+msgstr ""
+"Se requiere con temas de Bzotech Tema. Contiene todas las funciones "
+"auxiliares."
+
+#: bzotech-core.php:138
+msgid "Twitter Profile URL"
+msgstr "URL de Perfil de Twitter"
+
+#: bzotech-core.php:144
+msgid "Vimeo Profile URL"
+msgstr "Vimeo URL de Perfil"
+
+#: bzotech-core.php:145
+msgid "Youtube Profile URL"
+msgstr "Youtube URL de Perfil"
